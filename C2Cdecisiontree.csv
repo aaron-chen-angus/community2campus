@@ -1,0 +1,963 @@
+UNQ_ID,AGE RANGE,GENDER,NCSS_B03A,NCSS_B04,NCSS_B05,PARTICIPATION,Process_E_LS,Process_E_EX,Process_E_CT,X_MR1,X_MR2,X_MR3,X_MR4,X_MR5,I_MR1,I_MR2,I_MR3,I_MR4,I_MR5
+3027DF64,18-24 years old,Female,No,No,7 Polytechnic,7,5,5,5,-0.875,0,0.1,0,0.25,N,N,Y,N,Y
+0517723A,18-24 years old,Male,Yes,No,7 Polytechnic,6,5,5,5,-0.125,-1.8,-0.3,-1.25,-0.5,N,N,N,N,N
+558755DA,18-24 years old,Female,Yes,No,7 Polytechnic,4,5,5,5,0.1875,-0.2,-0.3,-0.5,0.5,Y,N,N,N,Y
+EFD47FEA,18-24 years old,Female,Yes,No,7 Polytechnic,3,5,5,5,-0.25,-0.2,-0.2,-1,1.5,N,N,N,N,Y
+8D0B8BA4,18-24 years old,Female,Yes,No,7 Polytechnic,9,5,5,5,-0.4375,-1,-0.4,-0.5,-1.25,N,N,N,N,N
+8151B1FD,18-24 years old,Female,Yes,No,8 University Degree,10,5,5,5,-0.4375,-1,-0.4,-0.5,-1.25,N,N,N,N,N
+1299325A,18-24 years old,Female,No,No,7 Polytechnic,7,5,5,5,0.125,1,-0.3,-1,2.5,Y,Y,N,N,Y
+43B4C164,18-24 years old,Female,No,No,8 University Degree,8,5,5,5,-0.375,-0.6,0.3,0,-0.25,N,N,Y,N,N
+585E234F,18-24 years old,Female,No,No,7 Polytechnic,7,5,5,5,-0.125,-1.8,-0.3,-1.25,-0.5,N,N,N,N,N
+EFA91FCA,18-24 years old,Female,No,No,7 Polytechnic,8,4,4,3,0.4375,0.4,0.6,-0.25,2,Y,Y,Y,N,Y
+F2412C99,18-24 years old,Female,No,No,7 Polytechnic,8,5,5,5,-0.5,-0.2,0,-0.75,0.25,N,N,N,N,Y
+52BDDA4D,18-24 years old,Female,Yes,No,8 University Degree,10,5,5,5,-0.25,0.6,0.4,-0.25,1,N,Y,Y,N,Y
+40D91B58,18-24 years old,Male,Yes,Yes,7 Polytechnic,4,5,5,5,-0.875,0,0.1,0,0.25,N,N,Y,N,Y
+04A01F57,18-24 years old,Female,No,No,7 Polytechnic,8,3,4,4,0.4375,0.4,0.6,-0.25,2,Y,Y,Y,N,Y
+4B1997A3,18-24 years old,Female,Yes,No,8 University Degree,9,5,5,5,-0.25,-0.2,-0.2,-1,1.5,N,N,N,N,Y
+D7151627,18-24 years old,Female,Yes,No,8 University Degree,9,5,5,5,0.1875,-0.2,-0.3,-0.5,0.5,Y,N,N,N,Y
+E1B9A47D,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,-0.25,0.6,0.4,-0.25,1,N,Y,Y,N,Y
+BB8CFD13,25-34 years old,Female,No,No,7 Polytechnic,4,5,5,5,0.1875,-0.2,-0.3,-0.5,0.5,Y,N,N,N,Y
+B340DA66,25-34 years old,Female,Yes,No,8 University Degree,4,4,4,4,-0.75,-0.6,0.2,0.5,-1.25,N,N,Y,Y,N
+5854C51C,25-34 years old,Female,Yes,No,8 University Degree,9,5,5,5,-0.875,0,0.1,0,0.25,N,N,Y,N,Y
+D0E5AF94,25-34 years old,Female,No,No,8 University Degree,9,5,5,5,-0.0625,-0.8,-0.4,-0.25,1.25,N,N,N,N,Y
+060A992D,25-34 years old,Female,Yes,Yes,8 University Degree,9,5,5,5,-0.5,-0.2,0,-0.75,0.25,N,N,N,N,Y
+4C385E91,25-34 years old,Female,No,No,8 University Degree,9,5,5,5,-0.5,-0.2,0,-0.75,0.25,N,N,N,N,Y
+6F4D0D43,25-34 years old,Female,Yes,No,8 University Degree,8,5,5,5,-0.375,-0.6,0.3,0,-0.25,N,N,Y,N,N
+E13B4660,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,-0.75,-0.6,0.2,0.5,-1.25,N,N,Y,Y,N
+87E3E135,25-34 years old,Male,No,No,7 Polytechnic,10,5,5,5,-0.375,-0.6,0.3,0,-0.25,N,N,Y,N,N
+F942CF33,25-34 years old,Female,Yes,No,8 University Degree,9,5,5,5,-0.125,-1.8,-0.3,-1.25,-0.5,N,N,N,N,N
+311C8F03,25-34 years old,Female,Yes,Yes,8 University Degree,9,3,4,4,-0.75,-0.6,0.2,0.5,-1.25,N,N,Y,Y,N
+F6043069,25-34 years old,Female,Yes,No,9 Postgraduate Degree,9,5,5,5,0.125,1,-0.3,-1,2.5,Y,Y,N,N,Y
+46041B9C,25-34 years old,Female,Yes,No,9 Postgraduate Degree,9,5,5,5,-0.0625,-0.8,-0.4,-0.25,1.25,N,N,N,N,Y
+72DBA5BA,35-44 years old,Female,No,No,8 University Degree,9,5,5,5,-1.25,-0.6,-1.8,-1.25,-0.25,N,N,N,N,N
+46CAD5EC,35-44 years old,Male,Yes,No,9 Postgraduate Degree,5,5,5,5,0.125,1,-0.3,-1,2.5,Y,Y,N,N,Y
+A9C7E9F5,35-44 years old,Male,No,Yes,9 Postgraduate Degree,3,5,5,5,-1.25,-0.6,-1.8,-1.25,-0.25,N,N,N,N,N
+B63601EE,35-44 years old,Female,Yes,Yes,9 Postgraduate Degree,9,5,5,5,-0.25,0.6,0.4,-0.25,1,N,Y,Y,N,Y
+23220AF7,35-44 years old,Male,Yes,Yes,9 Postgraduate Degree,5,5,5,5,-0.0625,-0.8,-0.4,-0.25,1.25,N,N,N,N,Y
+F1CE9B6D,35-44 years old,Female,No,No,9 Postgraduate Degree,4,5,5,5,-1.25,-0.6,-1.8,-1.25,-0.25,N,N,N,N,N
+57F5EAD5,45-54 years old,Male,No,No,9 Postgraduate Degree,4,5,5,5,-0.4375,-1,-0.4,-0.5,-1.25,N,N,N,N,N
+CCBBAA6B,55-64 years old,Male,Yes,No,9 Postgraduate Degree,9,4,4,3,0.4375,0.4,0.6,-0.25,2,Y,Y,Y,N,Y
+98510381,18-24 years old,Male,No,No,7 Polytechnic,10,3.5,0.5,2,-0.0625,-0.2,-0.3,0,0.25,N,N,N,N,Y
+2129D9A2,18-24 years old,Female,No,No,7 Polytechnic,10,3,3,3.5,0,0,0,0,0,N,N,N,N,N
+CE223D04,18-24 years old,Male,No,No,7 Polytechnic,10,4,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+7C09440D,18-24 years old,Male,No,No,7 Polytechnic,10,4.5,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+239EEFB8,18-24 years old,Female,No,No,7 Polytechnic,10,4.5,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+C605AED3,18-24 years old,Male,No,No,7 Polytechnic,10,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+06CE6211,18-24 years old,Female,No,No,7 Polytechnic,10,4,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+9A2CA061,18-24 years old,Female,No,No,7 Polytechnic,10,3.5,3.5,3,0,0,0,0,0,N,N,N,N,N
+EC1E58DE,18-24 years old,Female,No,No,7 Polytechnic,5,4,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+C9F80E2F,18-24 years old,Female,No,No,7 Polytechnic,5,3.5,3.5,4.5,0,0,0,0,0,N,N,N,N,N
+D4F88B15,18-24 years old,Female,No,No,7 Polytechnic,5,4,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+46AB8D2E,18-24 years old,Male,No,No,7 Polytechnic,5,3.5,3.5,3,0,0,0,0,0,N,N,N,N,N
+567A10EB,18-24 years old,Female,No,No,7 Polytechnic,5,4.5,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+645D42D5,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,0.5,1.2,0.6,1.25,-0.75,Y,Y,Y,Y,N
+54EB1E17,18-24 years old,Female,No,No,7 Polytechnic,5,4,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+BAE30008,18-24 years old,Female,No,No,7 Polytechnic,5,4,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+23A69FA3,18-24 years old,Male,No,No,7 Polytechnic,5,4.5,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+0F6F4367,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,-0.0625,0.4,-0.6,0.75,1,N,Y,N,Y,Y
+4C068CC1,18-24 years old,Male,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+E63110A1,18-24 years old,Male,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+11E30289,18-24 years old,Female,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+0904D366,18-24 years old,Female,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+5E7F7BAD,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,4.5,0,0,0,0,0,N,N,N,N,N
+5673C2A7,18-24 years old,Female,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+1CA2BA9A,18-24 years old,Female,No,No,7 Polytechnic,5,5,5,5,0.6875,0.8,0.3,0.25,0.5,Y,Y,Y,Y,Y
+1E227588,18-24 years old,Male,No,No,7 Polytechnic,5,4.5,4.5,4.5,-0.5,0.2,0,0,0.25,N,Y,N,N,Y
+274B37DE,18-24 years old,Female,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+B4A6A150,18-24 years old,Female,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+B13B2A9F,25-34 years old,Female,No,No,7 Polytechnic,5,4,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+7BC72FCA,25-34 years old,Female,No,No,7 Polytechnic,5,4,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+CBB47DA0,25-34 years old,Female,No,No,7 Polytechnic,5,4,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+8CA928F5,25-34 years old,Female,No,No,8 University Degree,5,2.5,2,2.5,-0.25,0,0.2,0.5,0.25,N,N,Y,Y,Y
+4F6E4622,25-34 years old,Female,No,No,8 University Degree,5,4,4,4,0.0625,0.2,0.3,1,0,Y,Y,Y,Y,N
+629F1BEA,25-34 years old,Female,No,No,8 University Degree,5,3.5,3,4,-0.5,-0.6,-0.1,0.5,0,N,N,N,Y,N
+99528F06,25-34 years old,Female,No,No,8 University Degree,5,4,4,4,0.0625,-0.2,0.3,0.75,-1.5,Y,N,Y,Y,N
+2E7801E5,25-34 years old,Female,No,No,8 University Degree,5,4,4.5,4.5,0.125,-0.8,0,0.5,-0.25,Y,N,N,Y,N
+162C8FA2,25-34 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,-0.4375,0,0.2,-0.25,0,N,N,Y,N,N
+E685CACB,25-34 years old,Male,No,No,8 University Degree,5,5,4.5,4.5,-0.0625,-0.2,-0.2,0.25,-0.75,N,N,N,Y,N
+9A5C9B11,25-34 years old,Female,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+36630AF2,25-34 years old,Female,No,No,8 University Degree,5,4,3,4,0.5,0.4,0.7,-0.25,0.5,Y,Y,Y,N,Y
+AE28677D,25-34 years old,Female,No,No,8 University Degree,5,3.5,3.5,4,0.25,0.6,0.3,0.5,0.75,Y,Y,Y,Y,Y
+5602783E,25-34 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,0.125,0,-0.1,0,-0.75,Y,N,N,N,N
+D193731C,25-34 years old,Female,No,No,8 University Degree,5,2,2,4,0.25,0,1.6,0.75,-0.25,Y,N,Y,Y,N
+B10A33AC,25-34 years old,Male,No,No,8 University Degree,5,3.5,3.5,4,-0.125,-0.6,0,0.25,0.25,N,N,N,Y,Y
+DD14A9EF,25-34 years old,Male,No,No,8 University Degree,5,4.5,3,2.5,0,0,0,0,0,N,N,N,N,N
+81280A77,25-34 years old,Male,No,No,8 University Degree,5,3,3.5,4,-0.1875,0,-0.2,1,0,N,N,N,Y,N
+FC3B91AE,25-34 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,1,0.2,0.3,0,0.5,Y,Y,Y,N,Y
+DF2B2778,25-34 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,0.5,-0.2,0.5,0.75,0.25,Y,N,Y,Y,Y
+CDA89D5A,25-34 years old,Female,No,No,8 University Degree,5,4,3.5,4.5,0.1875,0,0.1,-0.75,-0.5,Y,N,Y,N,N
+DA82E7F4,25-34 years old,Female,No,No,8 University Degree,5,2.5,4,5,0.5625,0,0.8,0.75,0,Y,N,Y,Y,N
+4DE1717A,25-34 years old,Female,No,No,8 University Degree,5,3.5,4,4.5,-0.5625,0.2,-0.3,-0.25,0.5,N,Y,N,N,Y
+5489C789,25-34 years old,Female,No,No,8 University Degree,5,4,4,4,1.0625,0.2,0.3,1,-0.25,Y,Y,Y,Y,N
+C1C3328D,25-34 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,-0.1875,-0.2,0.3,0.75,0,N,N,Y,Y,N
+57FE97BD,25-34 years old,Male,No,No,8 University Degree,5,2.5,5,5,0,0.2,0.4,0.25,-1,N,Y,Y,Y,N
+96E23310,25-34 years old,Male,No,No,8 University Degree,5,3.5,4,4,1.0625,0,0.9,0.75,0,Y,N,Y,Y,N
+8C7D759E,25-34 years old,Male,No,No,8 University Degree,5,3.5,4.5,5,1.8125,0.8,-0.2,1.25,0.25,Y,Y,N,Y,Y
+7547906A,25-34 years old,Male,No,No,8 University Degree,5,4,4,4,0.125,-0.8,0.8,1.5,-0.5,Y,N,Y,Y,N
+0CED3454,25-34 years old,Female,No,No,8 University Degree,5,2.5,1.5,2.5,0.3125,-0.2,0.8,0,0.25,Y,N,Y,N,Y
+ABF294BD,25-34 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+15ED2DE6,25-34 years old,Female,No,No,8 University Degree,5,2.5,3.5,3.5,0.5,-0.4,0.7,0.25,0.25,Y,N,Y,Y,Y
+F18CF455,25-34 years old,Male,No,No,8 University Degree,5,4,3.5,4,0,0,0,0,0,N,N,N,N,N
+B19AAECF,25-34 years old,Female,No,No,8 University Degree,5,4.5,5,5,0.1875,0,0.8,0.75,0,Y,N,Y,Y,N
+B21E36F9,25-34 years old,Male,No,No,8 University Degree,5,4,3.5,3.5,0.875,0.2,1,1,0,Y,Y,Y,Y,N
+27C4729E,25-34 years old,Female,No,No,8 University Degree,5,4,4,4.5,-0.0625,-0.4,0.3,0.5,0.25,N,N,Y,Y,Y
+F27BE136,25-34 years old,Male,No,No,8 University Degree,5,4.5,4.5,4.5,0.1875,-0.2,-0.2,0.25,-0.5,Y,N,N,Y,N
+B015E11C,25-34 years old,Female,No,No,8 University Degree,5,4,4,4,0.125,-0.4,0.5,0,0.5,Y,N,Y,N,Y
+27F934F8,25-34 years old,Female,No,No,8 University Degree,5,3,3,3.5,0,0,0,0,0,N,N,N,N,N
+C62B058B,25-34 years old,Female,No,No,8 University Degree,5,3,3,3.5,0,0,0,0,0,N,N,N,N,N
+47B29B6C,35-44 years old,Male,No,No,7 Polytechnic,10,3.5,3.5,3,0,0,0,0,0,N,N,N,N,N
+D9196FC8,35-44 years old,Female,No,No,9 Postgraduate Degree,10,4.5,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+21FE09C6,35-44 years old,Female,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+A00973B6,35-44 years old,Female,No,No,7 Polytechnic,5,4.5,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+CD4AFA12,35-44 years old,Male,No,No,7 Polytechnic,5,3.5,3.5,3,0,0,0,0,0,N,N,N,N,N
+973E7DBA,35-44 years old,Male,No,No,9 Postgraduate Degree,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+3551C7B0,35-44 years old,Female,No,No,8 University Degree,5,3.5,3.5,4,-0.375,0.2,0.1,0.5,0,N,Y,Y,Y,N
+73A46DAA,35-44 years old,Female,No,No,8 University Degree,5,5,5,5,0,0,0,0,0,N,N,N,N,N
+B11B847F,35-44 years old,Male,No,No,8 University Degree,5,4.5,4.5,4.5,0.5,0.2,0.8,0,0.75,Y,Y,Y,N,Y
+51E32D13,35-44 years old,Male,No,No,8 University Degree,5,4,4.5,4.5,-0.625,-0.4,0,0.25,0.5,N,N,N,Y,Y
+F9689DBC,35-44 years old,Male,No,No,8 University Degree,5,3,2,3.5,0.125,0.8,0.1,1,0.25,Y,Y,Y,Y,Y
+1858F4CA,35-44 years old,Male,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+BA8DDF53,35-44 years old,Female,No,No,8 University Degree,5,3,3,3,0.1875,0.2,-0.7,0,-1.5,Y,Y,N,N,N
+B46EF45D,35-44 years old,Female,No,No,8 University Degree,5,2.5,2.5,2.5,-0.0625,0,0.1,0,-0.25,N,N,Y,N,N
+DE44AF09,35-44 years old,Female,No,No,8 University Degree,5,4,4,4,0.0625,0.4,0.3,0.5,-0.25,Y,Y,Y,Y,N
+42C353AD,35-44 years old,Female,No,No,8 University Degree,5,4.5,4.5,4.5,0.25,0.4,0.1,0.25,-0.5,Y,Y,Y,Y,N
+34648DE8,35-44 years old,Female,No,No,8 University Degree,5,4,3.5,3.5,0.1875,0.2,0.9,1,1,Y,Y,Y,Y,Y
+B9DEBD78,35-44 years old,Male,No,No,8 University Degree,5,3.5,3.5,3,-0.5625,-0.2,-0.1,0.25,0.25,N,N,N,Y,Y
+524939A0,35-44 years old,Male,No,No,8 University Degree,5,4,3.5,3.5,0.375,-0.2,0.2,0,0.75,Y,N,Y,N,Y
+B7DAE9BA,35-44 years old,Male,No,No,8 University Degree,5,5,5,4.5,0.25,0,0.1,1,0,Y,N,Y,Y,N
+E909FDC5,35-44 years old,Male,No,No,8 University Degree,5,5,5,5,0.5,-0.4,0.2,0,0.5,Y,N,Y,N,Y
+AFC2DB16,35-44 years old,Male,No,No,8 University Degree,5,4,4.5,4.5,0.0625,-0.8,0,0.75,-0.25,Y,N,N,Y,N
+D7DC0B54,35-44 years old,Male,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+EACCC4A9,35-44 years old,Male,No,No,8 University Degree,5,3.5,4,3.5,0.3125,-0.2,1.1,0.25,0.75,Y,N,Y,Y,Y
+5B42E783,35-44 years old,Female,No,No,8 University Degree,5,4.5,4.5,4.5,1,0.4,0.9,1,0,Y,Y,Y,Y,N
+DF18C9AF,35-44 years old,Male,No,No,8 University Degree,5,3.5,3.5,4,0.9375,0.4,0.7,0.25,0.5,Y,Y,Y,Y,Y
+B84F4A13,35-44 years old,Female,No,No,8 University Degree,5,3.5,4,4,-0.5,-0.8,-0.1,-0.5,1,N,N,N,N,Y
+F09F0CB6,35-44 years old,Male,No,No,8 University Degree,5,3.5,3.5,4.5,1.0625,0.6,0.7,1,1.5,Y,Y,Y,Y,Y
+065DFBCD,35-44 years old,Female,No,No,8 University Degree,5,3,3,3.5,0.5,0,0.7,1.5,0.5,Y,N,Y,Y,Y
+2CAAC2D3,35-44 years old,Male,No,No,8 University Degree,5,3.5,4,4.5,0,0,-0.2,0.25,0,N,N,N,Y,N
+76CD8956,35-44 years old,Male,No,No,8 University Degree,5,3,3.5,4.5,-0.375,0.2,-0.1,0.75,1,N,Y,N,Y,Y
+4BE73D35,35-44 years old,Male,No,No,8 University Degree,5,4.5,4.5,4,0.5,0.4,0.8,1.25,0,Y,Y,Y,Y,N
+FA3AE275,35-44 years old,Female,No,No,8 University Degree,5,3,4,4.5,1,-0.6,0.2,0.25,0.25,Y,N,Y,Y,Y
+CDDF1EAE,35-44 years old,Female,No,No,8 University Degree,5,4,4,4,-0.0625,-0.6,0.6,-0.75,-0.5,N,N,Y,N,N
+0342311D,35-44 years old,Female,No,No,8 University Degree,5,3.5,3.5,4,0.3125,-0.6,0.6,0.5,-0.25,Y,N,Y,Y,N
+521D302F,35-44 years old,Male,No,No,8 University Degree,5,2.5,3,3.5,0,0,-0.2,-0.25,0,N,N,N,N,N
+98C288BC,35-44 years old,Male,No,No,8 University Degree,5,4,4,4,0,0,0,0.25,0,N,N,N,Y,N
+222187F1,35-44 years old,Male,No,No,8 University Degree,5,5,5,5,0.125,-1.6,0.3,-0.5,0.5,Y,N,Y,N,Y
+F278339F,35-44 years old,Male,No,No,8 University Degree,5,2,3,3.5,0.4375,0.6,0,0,0.25,Y,Y,N,N,Y
+D354F89A,35-44 years old,Male,No,No,8 University Degree,5,3.5,3.5,3.5,-1,-0.2,0.8,0.5,-1,N,N,Y,Y,N
+93AAC00F,35-44 years old,Male,No,No,8 University Degree,5,4,4,4,0.5625,-0.4,0.4,0.5,0.75,Y,N,Y,Y,Y
+DC4FFC4C,35-44 years old,Male,No,No,8 University Degree,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+ADE91523,35-44 years old,Female,No,No,8 University Degree,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+3C698D17,35-44 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,0.1875,0,-0.2,-0.5,0,Y,N,N,N,N
+8A9F2CC4,35-44 years old,Female,No,No,8 University Degree,5,4,4,4,0.1875,0,0.4,0.75,-0.5,Y,N,Y,Y,N
+EAD5A1A9,35-44 years old,Female,No,No,8 University Degree,5,4,5,4,1,0,1.6,1.5,0.5,Y,N,Y,Y,Y
+A2F64153,35-44 years old,Male,No,No,8 University Degree,5,1.5,1.5,3.5,0.75,-0.4,0.1,1.5,0.25,Y,N,Y,Y,Y
+A2E241C2,35-44 years old,Female,No,No,8 University Degree,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+D3298432,35-44 years old,Male,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+F85D65F7,35-44 years old,Female,No,No,8 University Degree,5,3,3.5,5,0.375,0,-0.5,1.5,0.25,Y,N,N,Y,Y
+F686B2A4,35-44 years old,Male,No,No,8 University Degree,5,4.5,5,5,-0.4375,0.2,0.1,0.75,0,N,Y,Y,Y,N
+091D13DA,35-44 years old,Female,No,No,8 University Degree,5,4,4.5,4,-0.0625,0.2,-0.1,-0.25,0,N,Y,N,N,N
+04F31AF2,35-44 years old,Male,No,No,8 University Degree,5,2.5,2,2.5,0.625,0.2,0.8,-0.25,0.25,Y,Y,Y,N,Y
+F2467301,35-44 years old,Male,No,No,8 University Degree,5,5,5,5,0,0,0,0,0,N,N,N,N,N
+2742E7A5,35-44 years old,Female,No,No,8 University Degree,5,4,4,4,1.4375,0.4,1.5,0.5,1,Y,Y,Y,Y,Y
+B087C335,35-44 years old,Male,No,No,8 University Degree,5,3,2,4,-0.3125,-1,-0.1,0,0.5,N,N,N,N,Y
+DE39C379,35-44 years old,Female,No,No,8 University Degree,5,4,3.5,4.5,0.25,-0.2,-0.4,-0.25,0,Y,N,N,N,N
+BD4471BD,35-44 years old,Female,No,No,8 University Degree,5,5,5,5,0.4375,-0.4,0.4,1,0.5,Y,N,Y,Y,Y
+55E92A9D,35-44 years old,Male,No,No,8 University Degree,5,2,2,3,0.4375,0,0.3,0.75,0.25,Y,N,Y,Y,Y
+7EF1BCB8,35-44 years old,Male,No,No,8 University Degree,5,4,3.5,4,0,0,0,0,0,N,N,N,N,N
+F591FD93,35-44 years old,Male,No,No,8 University Degree,5,3.5,4,4,1,-0.6,0.5,1,0.5,Y,N,Y,Y,Y
+23D59A35,35-44 years old,Female,No,No,8 University Degree,5,1,1,2,-0.375,-0.8,-0.6,1,-0.75,N,N,N,Y,N
+A0742819,35-44 years old,Female,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+5340D5AF,35-44 years old,Female,No,No,8 University Degree,5,4,3.5,4,0,0,0,0,0,N,N,N,N,N
+775073AF,35-44 years old,Female,No,No,8 University Degree,5,2.5,3.5,4,0.0625,0,0.3,1.25,-0.5,Y,N,Y,Y,N
+157898D1,35-44 years old,Female,No,No,8 University Degree,5,4.5,4.5,4.5,0.875,-0.6,-0.1,0.25,0.5,Y,N,N,Y,Y
+1A0DD47E,35-44 years old,Female,No,No,8 University Degree,5,4,4,4.5,0.125,-0.4,0.6,0.75,0,Y,N,Y,Y,N
+A512D5BF,35-44 years old,Female,No,No,8 University Degree,5,4,3.5,4,0,0,0,0,0,N,N,N,N,N
+DE34C9B4,35-44 years old,Female,No,No,8 University Degree,5,4.5,4.5,4.5,0,0.6,-0.2,0.75,-1.5,N,Y,N,Y,N
+80CC3FCF,35-44 years old,Female,No,No,8 University Degree,5,1.5,3,3,0.0625,-0.2,0,-1,0.25,Y,N,N,N,Y
+6F08A28C,35-44 years old,Male,No,No,8 University Degree,5,2.5,2.5,3,-0.5625,-0.4,-0.2,-0.5,-0.25,N,N,N,N,N
+F215D1FE,35-44 years old,Male,No,No,8 University Degree,5,3.5,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+302FBBC2,35-44 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+6E03091C,35-44 years old,Female,No,No,8 University Degree,5,3.5,3,3,0,0,0,0,0,N,N,N,N,N
+31590B44,35-44 years old,Female,No,No,8 University Degree,5,3.5,4,3.5,0.8125,0.2,0.4,1.25,-0.75,Y,Y,Y,Y,N
+4B2155AC,35-44 years old,Female,No,No,8 University Degree,5,3.5,4,4.5,0.375,0.2,0.6,0,0.5,Y,Y,Y,N,Y
+C95E8CC5,35-44 years old,Female,No,No,8 University Degree,5,3.5,3.5,3.5,-0.125,-0.4,-0.4,0,-1,N,N,N,N,N
+82546946,35-44 years old,Female,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+1F49634B,35-44 years old,Female,No,No,8 University Degree,5,4.5,4.5,4.5,0,0,0,0,0,N,N,N,N,N
+CA5A5F91,35-44 years old,Female,No,No,8 University Degree,5,2.5,2.5,2.5,0,0,0,0,0,N,N,N,N,N
+2895C441,35-44 years old,Male,No,No,8 University Degree,5,3.5,3.5,4,0,0.2,0.8,-0.25,0.25,N,Y,Y,N,Y
+C055F22F,45-54 years old,Female,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+7362012C,45-54 years old,Male,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+DAEC2A13,45-54 years old,Male,No,No,8 University Degree,5,4,4.5,4.5,0.5625,0.4,0.2,0.25,0,Y,Y,Y,Y,N
+82153E00,45-54 years old,Female,No,No,8 University Degree,5,4,4,4,0.25,-0.6,1.2,1,0,Y,N,Y,Y,N
+2C6645BB,45-54 years old,Female,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+71BFB41F,45-54 years old,Female,No,No,8 University Degree,5,3,3,3.5,0.1875,-0.6,0.1,-0.25,0.25,Y,N,Y,N,Y
+021FC644,45-54 years old,Female,No,No,8 University Degree,5,3.5,4.5,5,-0.0625,-0.4,0,0.75,0.25,N,N,N,Y,Y
+163F8704,45-54 years old,Female,No,No,8 University Degree,5,2,3.5,5,0.4375,-0.4,0.5,1,0,Y,N,Y,Y,N
+F793D781,45-54 years old,Male,No,No,8 University Degree,5,4,4.5,5,0.75,-0.2,0.1,1.25,-1.75,Y,N,Y,Y,N
+F4528B90,45-54 years old,Female,No,No,8 University Degree,5,3,3.5,3.5,0.9375,0.4,0.5,1.25,1,Y,Y,Y,Y,Y
+48DC877E,45-54 years old,Female,No,No,8 University Degree,5,3.5,3.5,4.5,0.5625,-0.2,0.3,0.75,0.25,Y,N,Y,Y,Y
+6B6E8DA9,45-54 years old,Female,No,No,8 University Degree,5,3,4,4.5,0.1875,0,0.5,0.5,0,Y,N,Y,Y,N
+F6A98054,45-54 years old,Female,No,No,8 University Degree,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+ACBEEC1E,45-54 years old,Male,No,No,8 University Degree,5,3,3,3.5,0,0,0,0,0,N,N,N,N,N
+7BDB3C3A,45-54 years old,Female,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+933F9EBD,45-54 years old,Male,No,No,8 University Degree,5,5,5,5,0.4375,-1,-0.1,0.75,0,Y,N,N,Y,N
+764ADFE9,45-54 years old,Male,No,No,8 University Degree,5,4,4.5,4.5,0.875,0.2,-0.1,1.75,0,Y,Y,N,Y,N
+2FDAF6E4,45-54 years old,Female,No,No,8 University Degree,5,3.5,3,3,0.5625,-0.6,0.2,0.75,0.5,Y,N,Y,Y,Y
+381639B4,45-54 years old,Male,No,No,8 University Degree,5,5,5,4.5,0.8125,0.4,0.4,1.25,0.25,Y,Y,Y,Y,Y
+94F0B4E4,45-54 years old,Male,No,No,8 University Degree,5,3.5,3.5,3.5,-0.375,0,0,0.25,-0.5,N,N,N,Y,N
+F04A8F63,45-54 years old,Female,No,No,8 University Degree,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+A4023F9E,45-54 years old,Female,No,No,8 University Degree,5,3.5,3,5,0.25,0.2,0.2,0.5,2,Y,Y,Y,Y,Y
+2040366E,45-54 years old,Female,No,No,8 University Degree,5,3.5,4,4,0.25,0,0.2,-0.25,0.25,Y,N,Y,N,Y
+EFA9170B,45-54 years old,Male,No,No,8 University Degree,5,4,4,4.5,0.375,-0.2,0.2,0.5,0,Y,N,Y,Y,N
+C1A424ED,45-54 years old,Male,No,No,8 University Degree,5,4,3.5,4,0,0,0,0,0,N,N,N,N,N
+18B9D3D6,45-54 years old,Female,No,No,8 University Degree,5,4,3.5,4,0,0,0,0,0,N,N,N,N,N
+A74BF3FF,45-54 years old,Male,No,No,8 University Degree,5,1.5,1.5,2.5,-0.1875,-0.2,-0.2,-1,-0.5,N,N,N,N,N
+E8C746F5,45-54 years old,Male,No,No,8 University Degree,5,3.5,3.5,3.5,0,0.2,0.2,1,0,N,Y,Y,Y,N
+C3C40473,45-54 years old,Male,No,No,8 University Degree,5,2.5,5,5,0,0,0,0,0,N,N,N,N,N
+235E902D,45-54 years old,Female,No,No,8 University Degree,5,5,5,5,-0.5625,-0.2,-1.1,-0.75,0.25,N,N,N,N,Y
+934EBA1F,45-54 years old,Male,No,No,8 University Degree,5,3.5,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+038E3E0A,45-54 years old,Male,No,No,8 University Degree,5,3.5,3,3,0.625,0.4,0.2,0.5,0,Y,Y,Y,Y,N
+970703EB,45-54 years old,Female,No,No,8 University Degree,5,5,5,5,2.375,1.2,1.1,2.25,-0.25,Y,Y,Y,Y,N
+59D7C866,45-54 years old,Male,No,No,8 University Degree,5,3.5,3.5,3.5,0,0,0,0,0,N,N,N,N,N
+BB47A0CA,45-54 years old,Female,No,No,8 University Degree,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+90CBFF23,55-64 years old,Female,No,No,8 University Degree,5,4.5,5,5,0.5,0.4,-0.1,0,0,Y,Y,N,N,N
+7F9BDC20,55-64 years old,Male,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+A9883C97,55-64 years old,Female,No,No,8 University Degree,5,4,3.5,4,0,0,0,0,0,N,N,N,N,N
+8995ABBE,55-64 years old,Male,No,No,8 University Degree,5,4,3.5,4,0.75,0.4,-0.3,1,0.25,Y,Y,N,Y,Y
+BE5371D7,55-64 years old,Female,No,No,8 University Degree,5,5,5,5,0.3125,-0.4,0.6,0,0.25,Y,N,Y,N,Y
+F1306D10,55-64 years old,Female,No,No,8 University Degree,5,4,4,4,0,0,0,0,0,N,N,N,N,N
+55F7604C,55-64 years old,Female,No,No,7 Polytechnic,5,3.5,4.5,5,0,0,0,0,0,N,N,N,N,N
+7C26B241,65-74 years old,Female,No,No,7 Polytechnic,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+EF639305,65-74 years old,Female,No,No,8 University Degree,5,2.5,5,5,0,0,0,0,0,N,N,N,N,N
+4914CE9D,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.75,-0.8,2.8,0.75,1,Y,N,Y,Y,Y
+9FECF0F0,18-24 years old,Male,No,No,8 University Degree,3,5,5,5,2.375,0.8,1.8,0,-0.75,Y,Y,Y,N,N
+32A91DFF,18-24 years old,Male,No,No,8 University Degree,5,4,4,3,1.5,0,2.5,0.75,0.25,Y,N,Y,Y,Y
+7055F294,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2.125,0.2,2.5,0.25,-1,Y,Y,Y,Y,N
+C1BE3454,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,3.625,0.4,2.1,0,3,Y,Y,Y,N,Y
+B2F8DBFA,18-24 years old,Male,No,No,8 University Degree,3,5,5,5,1.375,0.8,2,0,0.75,Y,Y,Y,N,Y
+9A4A70F3,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,3.5,0,3.3,0,1.5,Y,N,Y,N,Y
+C92E8197,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,2.5625,-0.2,2.8,0.25,0.75,Y,N,Y,Y,Y
+5DD39F70,18-24 years old,Female,No,No,8 University Degree,2,4,4,3,1.75,0.4,2.3,0,1.25,Y,Y,Y,N,Y
+7CA1760A,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,0.75,0,1.6,0,0.75,Y,N,Y,N,Y
+6DCCA3A9,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,1.125,1,2.2,0,0.25,Y,Y,Y,N,Y
+0BE6B155,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,1.125,0.2,2.7,1.5,0.75,Y,Y,Y,Y,Y
+642E60BF,18-24 years old,Female,No,No,8 University Degree,2,4,4,3,1.375,0.6,1.9,0,1,Y,Y,Y,N,Y
+7DB2014F,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,0.3125,-0.2,2.1,0.75,1,Y,N,Y,Y,Y
+8FFC4D3C,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,1.5625,-0.2,2.8,0,-0.25,Y,N,Y,N,N
+7C8DE1E5,18-24 years old,Male,No,No,8 University Degree,3,5,5,5,3.125,1.2,3.1,0,2,Y,Y,Y,N,Y
+09786C7D,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,-0.125,1,1.8,1,-0.25,N,Y,Y,Y,N
+7B638342,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,1.375,1,2,0,1,Y,Y,Y,N,Y
+BDD19EAA,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,0.5,-0.4,2.2,0.25,1.25,Y,N,Y,Y,Y
+DA992012,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,2.875,0.6,3.2,0.75,2.5,Y,Y,Y,Y,Y
+0F527BD2,18-24 years old,Male,No,No,8 University Degree,3,5,5,5,1.125,0,2.1,0,0.5,Y,N,Y,N,Y
+3359EBC6,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,2.125,0.6,3,0.75,1.25,Y,Y,Y,Y,Y
+B4C62E1D,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.6875,0,2.2,0.75,2,Y,N,Y,Y,Y
+63FC3527,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,3.1875,-1,2.9,0.25,2.5,Y,N,Y,Y,Y
+742BFFE8,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,1.1875,0,1.7,0,0.25,Y,N,Y,N,Y
+DAAF8C14,18-24 years old,Male,No,No,8 University Degree,3,4,4,3,1.0625,-0.4,2.2,0.5,0.25,Y,N,Y,Y,Y
+31299017,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2.75,-0.2,0.7,0,2,Y,N,Y,N,Y
+63E60336,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,3.5625,0.6,3.3,-0.25,1.25,Y,Y,Y,N,Y
+CA36E342,18-24 years old,Male,No,No,8 University Degree,3,4,4,4,1,0.2,2,-1,1,Y,Y,Y,N,Y
+3D88DBC8,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2.75,0,3.3,1.25,0.5,Y,N,Y,Y,Y
+177EC2E3,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,2.125,0,3.2,0,2.5,Y,N,Y,N,Y
+C03A35B3,18-24 years old,Male,No,No,7 Polytechnic,1,5,5,5,1.625,0.2,2.6,1.5,1.25,Y,Y,Y,Y,Y
+6F211E9C,18-24 years old,Male,No,No,7 Polytechnic,5,4,4,3,1.625,-0.4,1.7,0.5,-0.25,Y,N,Y,Y,N
+C9EA914C,18-24 years old,Male,No,No,7 Polytechnic,1,5,5,5,0.5625,0,2.3,0.25,-0.75,Y,N,Y,Y,N
+B32C6850,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,0.875,-0.6,2.5,0,-0.75,Y,N,Y,N,N
+82223EF8,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2.0625,0.6,2,2.25,-0.5,Y,Y,Y,Y,N
+A97E182B,18-24 years old,Female,No,No,8 University Degree,5,4,4,3,2.5,0.8,2.7,1.25,1.75,Y,Y,Y,Y,Y
+ADCC06CD,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,2.1875,0.2,2.5,0,0.25,Y,Y,Y,N,Y
+3409D125,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,2.125,0.6,2.8,-0.5,-0.5,Y,Y,Y,N,N
+C74FA6AE,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,2.125,-0.2,2.5,0.75,0.75,Y,N,Y,Y,Y
+A409D8DB,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,1.6875,1.2,2.6,0,0.5,Y,Y,Y,N,Y
+759FF162,18-24 years old,Male,No,No,8 University Degree,4,4,4,3,2.125,0.6,3.2,0,0.25,Y,Y,Y,N,Y
+7B92D682,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.75,0.2,2.9,0,0.75,Y,Y,Y,N,Y
+E2C9A942,18-24 years old,Male,No,No,8 University Degree,3,5,5,5,1.875,0.4,2.8,0.5,0,Y,Y,Y,Y,N
+5A300D9E,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,-0.3125,-0.8,1.7,0,-0.25,N,N,Y,N,N
+45CD6796,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,0.625,0.4,0.7,1,-0.25,Y,Y,Y,Y,N
+D9CC8619,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.875,0,3.2,0.5,2.5,Y,N,Y,Y,Y
+B5602557,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,0.875,-0.2,1.3,-0.25,1.25,Y,N,Y,N,Y
+CC80DA44,18-24 years old,Male,No,No,8 University Degree,5,5,5,5,2.1875,0.2,2.6,0.25,1.25,Y,Y,Y,Y,Y
+DED337F8,18-24 years old,Male,No,No,8 University Degree,2,4,4,3,0.5,-0.2,1.4,0,0.25,Y,N,Y,N,Y
+91249A6D,18-24 years old,Male,No,No,8 University Degree,2,5,5,5,-0.1875,0,2.8,0,1.5,N,N,Y,N,Y
+6F1DDA2F,18-24 years old,Male,No,No,8 University Degree,2,5,5,5,0.4375,0,3,0,1.25,Y,N,Y,N,Y
+3EFD7B47,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,1.75,0,2.5,0,0.75,Y,N,Y,N,Y
+190F8EC4,18-24 years old,Female,No,No,8 University Degree,3,4,4,3,2.5625,1.2,3.2,0,0.5,Y,Y,Y,N,Y
+D7D5C6A5,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,2.5,-0.6,2.7,0,1,Y,N,Y,N,Y
+FC53F776,18-24 years old,Male,No,No,8 University Degree,4,4,4,3,1.9375,0,2.7,0.25,2.25,Y,N,Y,Y,Y
+D666B98E,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.5625,-0.6,2.7,0.75,1.25,Y,N,Y,Y,Y
+6A65EDED,18-24 years old,Female,No,No,8 University Degree,5,4,4,4,1.875,-1,2.5,-0.75,-0.25,Y,N,Y,N,N
+949AD13C,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.1875,-0.8,1,0.5,0.75,Y,N,Y,Y,Y
+5A18F9C4,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,1.5,0,2,0,0,Y,N,Y,N,N
+A4F72BAC,18-24 years old,Male,No,No,8 University Degree,3,5,5,5,1.625,0.4,2.6,0,1,Y,Y,Y,N,Y
+553D718E,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,0.5625,-0.8,2,0,1.25,Y,N,Y,N,Y
+43BA7DD9,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.75,0.8,2,0,0.25,Y,Y,Y,N,Y
+EF54DBD1,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,0.875,0.2,0.1,0,-0.25,Y,Y,Y,N,N
+1A3348CB,18-24 years old,Male,No,No,8 University Degree,4,4,4,4,0.9375,0,2,1.25,-1.75,Y,N,Y,Y,N
+559168CC,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,1.8125,0.4,2.2,1,1,Y,Y,Y,Y,Y
+48B648BA,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,2.3125,-0.6,1.6,0.25,0.5,Y,N,Y,Y,Y
+D0B49244,18-24 years old,Male,No,No,8 University Degree,2,5,5,5,1.8125,0.6,2,1,1.75,Y,Y,Y,Y,Y
+D4B94C25,18-24 years old,Male,No,No,8 University Degree,4,4,4,3,1,0.2,1.8,0.25,0,Y,Y,Y,Y,N
+FE0E3A92,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,2.1875,0.6,2,-0.25,2,Y,Y,Y,N,Y
+7025EF05,18-24 years old,Female,No,No,8 University Degree,4,4,4,3,0.6875,0.4,0.9,0.5,0.75,Y,Y,Y,Y,Y
+871EDBAC,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,2.25,-0.2,2.4,0,1.25,Y,N,Y,N,Y
+083AE557,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,1.1875,-0.8,1.9,1,-0.75,Y,N,Y,Y,N
+7C749CBB,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,0.6875,-0.2,2.5,0,2,Y,N,Y,N,Y
+8C89CD11,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,1.25,-0.4,1.3,1,-0.5,Y,N,Y,Y,N
+89845EB8,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,2.25,0.2,3.2,-0.25,0.5,Y,Y,Y,N,Y
+050ABD6C,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2.375,0.2,2.8,1.5,2.5,Y,Y,Y,Y,Y
+A9BD19C8,18-24 years old,Female,No,No,8 University Degree,2,4,4,3,1.75,0.6,1.7,0,0.5,Y,Y,Y,N,Y
+E81E0481,18-24 years old,Male,No,No,8 University Degree,2,5,5,5,1.5,-0.2,2.2,0.75,0.25,Y,N,Y,Y,Y
+1C25184E,18-24 years old,Female,No,No,7 Polytechnic,5,5,5,5,1,1.2,2.2,-0.5,1,Y,Y,Y,N,Y
+F1E7C794,18-24 years old,Male,No,No,7 Polytechnic,4,5,5,5,1.4375,0.4,2.2,0.25,0.75,Y,Y,Y,Y,Y
+1FB5E94D,18-24 years old,Female,No,No,7 Polytechnic,5,4,4,3,0.75,0.4,0.6,0.75,0.5,Y,Y,Y,Y,Y
+BCF87ABF,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,2.1875,-0.8,2.4,0.75,1.75,Y,N,Y,Y,Y
+B0A51B18,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,3.5,-0.4,3.6,-0.5,1.25,Y,N,Y,N,Y
+73F06410,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,1.5,-0.6,2.7,0.25,0.25,Y,N,Y,Y,Y
+8B151464,18-24 years old,Male,No,No,8 University Degree,5,5,5,5,1.3125,0,2,-0.25,1.75,Y,N,Y,N,Y
+03FB9FBE,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,0.4375,0.6,1.3,0,0.5,Y,Y,Y,N,Y
+338A9CE5,18-24 years old,Male,No,No,8 University Degree,5,4,4,3,1.625,0.2,2.1,0,0,Y,Y,Y,N,N
+D3E7530E,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,0.6875,-0.8,1.3,0,0.25,Y,N,Y,N,Y
+9638ED32,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2,0.8,3.2,0,-1.75,Y,Y,Y,N,N
+B2680C12,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,1.1875,0.4,0.8,0,2,Y,Y,Y,N,Y
+ECFF5591,18-24 years old,Female,No,No,8 University Degree,5,4,4,4,0.6875,0.2,0.3,0,0,Y,Y,Y,N,N
+2B347771,18-24 years old,Female,No,No,8 University Degree,5,4,4,4,2.1875,-0.4,2.2,0,0.75,Y,N,Y,N,Y
+5610D4C5,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,0.875,-0.8,1.7,-0.25,0.5,Y,N,Y,N,Y
+ED16E911,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,2.75,1,3.1,0,1.75,Y,Y,Y,N,Y
+BBEF2DAB,18-24 years old,Male,No,No,8 University Degree,5,5,5,5,1.1875,0.6,2.1,0.25,1.5,Y,Y,Y,Y,Y
+464B6775,18-24 years old,Male,No,No,8 University Degree,2,5,5,5,0.6875,0,1.2,0,1,Y,N,Y,N,Y
+17E852CE,18-24 years old,Male,No,No,8 University Degree,5,5,5,5,1.4375,-0.2,3.5,1.25,0.75,Y,N,Y,Y,Y
+CFA72BE9,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.125,0.6,2.3,0.5,-0.25,Y,Y,Y,Y,N
+7BDE3C83,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,0.5625,-0.2,1.9,0.5,-0.5,Y,N,Y,Y,N
+3561D186,18-24 years old,Female,No,No,8 University Degree,4,4,4,4,1.8125,0.4,1.7,0,1.75,Y,Y,Y,N,Y
+CC0E7AB2,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,3.1875,0,3.4,0,2,Y,N,Y,N,Y
+2527A0A8,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2,0,1.2,0.5,1.25,Y,N,Y,Y,Y
+571017D4,18-24 years old,Male,No,No,8 University Degree,3,5,5,5,1.875,-0.6,2.4,0,1,Y,N,Y,N,Y
+F79FAE2D,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,2.3125,0.8,2.8,0,1.25,Y,Y,Y,N,Y
+0E93A2E0,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.8125,-0.4,2.7,-0.25,0.5,Y,N,Y,N,Y
+D707C3FB,18-24 years old,Female,No,No,8 University Degree,4,4,4,4,1.1875,1,2.2,0.5,1,Y,Y,Y,Y,Y
+9FDA707D,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,1.625,0.8,3.2,1.25,2.25,Y,Y,Y,Y,Y
+48334137,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.4375,0.6,1.6,-0.25,1.25,Y,Y,Y,N,Y
+FC976AD2,18-24 years old,Female,No,No,7 Polytechnic,5,5,5,5,0.75,0.4,2.1,0,1.75,Y,Y,Y,N,Y
+E6596D88,18-24 years old,Female,No,No,7 Polytechnic,4,5,5,5,1.375,0,3.4,1.5,1.5,Y,N,Y,Y,Y
+8D3D026C,18-24 years old,Female,No,No,7 Polytechnic,5,4,4,4,1.75,-1,2.6,0.5,0.25,Y,N,Y,Y,Y
+57F2ED52,18-24 years old,Male,No,No,7 Polytechnic,1,5,5,5,0.875,0,0.9,0,0,Y,N,Y,N,N
+99E11282,18-24 years old,Female,No,No,7 Polytechnic,4,5,5,5,1.3125,-0.6,1.9,0.75,1.5,Y,N,Y,Y,Y
+7AAD4C7E,18-24 years old,Female,No,No,7 Polytechnic,1,5,5,5,2.875,0.4,1.1,0,2.25,Y,Y,Y,N,Y
+E018D244,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,-0.0625,-0.2,0.9,-1,0.5,N,N,Y,N,Y
+2976D6D4,18-24 years old,Male,No,No,8 University Degree,5,5,5,5,2.875,-0.4,3.2,0.25,0.75,Y,N,Y,Y,Y
+87BC1FCE,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.0625,0.2,3.4,0.75,-0.5,Y,Y,Y,Y,N
+F1142EA5,18-24 years old,Female,No,No,8 University Degree,5,4,4,3,2.75,-0.4,2.8,0,1.5,Y,N,Y,N,Y
+07A0BD5C,18-24 years old,Female,No,No,8 University Degree,4,4,4,3,0.6875,0.4,1.3,0,1,Y,Y,Y,N,Y
+58D455B7,18-24 years old,Female,No,No,8 University Degree,4,4,4,3,0.75,1,1.3,1.25,1.5,Y,Y,Y,Y,Y
+33535527,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,1.625,-0.8,1.8,0,1.5,Y,N,Y,N,Y
+DD0F1DC4,18-24 years old,Female,No,No,8 University Degree,5,4,4,4,1.75,0,1.8,0,1,Y,N,Y,N,Y
+D4DD5543,18-24 years old,Male,No,No,8 University Degree,2,5,5,5,2.125,1,2.5,1.25,1,Y,Y,Y,Y,Y
+53653761,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,-0.0625,0.2,1.5,0,-0.25,N,Y,Y,N,N
+6F03F896,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,-0.0625,-0.2,0.8,0.25,-0.25,N,N,Y,Y,N
+9C784979,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,0.75,1,2.5,1,0,Y,Y,Y,Y,N
+2E5E11A4,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,1.5,0.6,2.5,0,-0.25,Y,Y,Y,N,N
+6744D2E5,18-24 years old,Male,No,No,8 University Degree,2,5,5,5,0.9375,0,2,0.25,2,Y,N,Y,Y,Y
+9F636A79,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.875,0.2,2.9,0.75,0,Y,Y,Y,Y,N
+76AEBF99,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,2.8125,0.6,2.4,0,1.5,Y,Y,Y,N,Y
+7E71CCD6,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,0.75,0.4,1.2,-0.75,1.25,Y,Y,Y,N,Y
+9D6CE9E9,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,1.375,-0.2,1,0.75,1,Y,N,Y,Y,Y
+41F10A2D,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,1.6875,0.6,1.9,0,1.5,Y,Y,Y,N,Y
+3E8EFAAA,18-24 years old,Male,No,No,7 Polytechnic,2,4,4,3,0.8125,0.2,0.6,0,-0.75,Y,Y,Y,N,N
+C780920F,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,2.625,0.2,2.2,-0.25,1.5,Y,Y,Y,N,Y
+049C5C55,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,0.0625,0.4,1.6,0,1,Y,Y,Y,N,Y
+98AE6F52,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,2.3125,1.6,3.5,0,-0.5,Y,Y,Y,N,N
+16023809,18-24 years old,Male,No,No,8 University Degree,5,5,5,5,1.0625,-0.6,2.2,0,0.5,Y,N,Y,N,Y
+6360BE23,18-24 years old,Female,No,No,8 University Degree,5,4,4,4,2.125,-0.4,3.4,0.5,1.5,Y,N,Y,Y,Y
+EE71A9DD,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.375,0.4,2.6,-0.5,0.75,Y,Y,Y,N,Y
+B317EE52,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.625,0.4,2.8,1,-1.5,Y,Y,Y,Y,N
+412EA6BA,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,0.4375,-0.2,1.7,1,1,Y,N,Y,Y,Y
+73C16A9D,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,2.3125,0.4,2.9,0,1.75,Y,Y,Y,N,Y
+A36344F2,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,1.125,-0.2,0.4,0.5,0.25,Y,N,Y,Y,Y
+E2376F25,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.9375,0.2,2.8,0.5,1.25,Y,Y,Y,Y,Y
+EE925D43,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,2.25,0,1.3,0,-1,Y,N,Y,N,N
+F3042F5C,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,1.6875,0.2,0.9,0,0.5,Y,Y,Y,N,Y
+3D7FB523,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.5,-0.6,0.7,0,0.25,Y,N,Y,N,Y
+E2CB9478,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2.3125,0.6,1.6,-0.75,1.25,Y,Y,Y,N,Y
+789328E2,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.9375,0.8,3,0,2,Y,Y,Y,N,Y
+26202F85,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,1.5625,1,2.1,0,2.25,Y,Y,Y,N,Y
+AD1F89C0,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,0.8125,-0.4,1.5,0.75,0.5,Y,N,Y,Y,Y
+ADBD3112,18-24 years old,Male,No,No,8 University Degree,2,5,5,5,1.8125,1.2,2.8,0,1.5,Y,Y,Y,N,Y
+EC4D2421,18-24 years old,Female,No,No,8 University Degree,2,5,5,5,1.25,0.4,2.3,1,-0.5,Y,Y,Y,Y,N
+E9687848,18-24 years old,Male,No,No,8 University Degree,2,4,4,4,1.25,1,0.7,0,0.25,Y,Y,Y,N,Y
+65F31D29,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,0.625,0,2.6,1,0,Y,N,Y,Y,N
+EC5D1092,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,0,0,0,0.25,0,N,N,N,Y,N
+90AA240D,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,2.0625,0,0.5,0.5,1,Y,N,Y,Y,Y
+F34FAFA6,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,2.375,0,2.8,1.5,1,Y,N,Y,Y,Y
+D61624A9,18-24 years old,Female,No,No,8 University Degree,5,5,5,5,1.75,0.2,2.1,0,1,Y,Y,Y,N,Y
+83240A87,18-24 years old,Female,No,No,8 University Degree,4,4,4,3,1.6875,0.4,2.5,0,3.25,Y,Y,Y,N,Y
+C00BF116,18-24 years old,Male,No,No,8 University Degree,4,4,4,3,2.0625,0.2,2,1,1.25,Y,Y,Y,Y,Y
+B1831230,18-24 years old,Male,No,No,8 University Degree,4,5,5,5,0.875,0.4,2.1,1,0.75,Y,Y,Y,Y,Y
+9413164C,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,3.25,-0.4,3.5,1,0.75,Y,N,Y,Y,Y
+82EF6C8F,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,1.8125,0,1.9,0,0,Y,N,Y,N,N
+A6135221,18-24 years old,Female,No,No,8 University Degree,3,5,5,5,2.5625,-0.2,3.1,0,0,Y,N,Y,N,N
+D5F6C229,18-24 years old,Male,No,No,8 University Degree,5,5,5,5,1,-0.6,0.7,1,0.5,Y,N,Y,Y,Y
+24005955,18-24 years old,Male,No,No,7 Polytechnic,5,5,5,5,1.5625,0.4,2.5,1.25,2,Y,Y,Y,Y,Y
+15F3ADE3,18-24 years old,Male,No,No,7 Polytechnic,4,5,5,5,3.125,0.6,3.2,1.75,2.5,Y,Y,Y,Y,Y
+5A4DE78B,18-24 years old,Female,No,No,7 Polytechnic,5,5,5,5,1.6875,0.4,1.8,0,0.25,Y,Y,Y,N,Y
+02BD6684,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,1.9375,1.2,3.3,0.75,0.5,Y,Y,Y,Y,Y
+4F214908,18-24 years old,Female,No,No,8 University Degree,4,5,5,5,2.125,-1.6,3.2,-0.25,-1,Y,N,Y,N,N
+AADF774F,18-24 years old,Female,No,No,7 Polytechnic,4,4,4,3,1,-0.8,1.3,0.75,0.75,Y,N,Y,Y,Y
+5FD4D46A,25-34 years old,Male,No,No,8 University Degree,4,5,5,5,1.8125,0,1.1,0,1.5,Y,N,Y,N,Y
+44C5181D,25-34 years old,Female,No,No,8 University Degree,3,5,5,5,3.125,0.8,1.9,0,-0.25,Y,Y,Y,N,N
+4CB5077E,25-34 years old,Male,No,No,8 University Degree,4,5,5,5,2.0625,0.6,1.7,1,0.5,Y,Y,Y,Y,Y
+5AA6E00B,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,0.75,1,2.5,1,0,Y,Y,Y,Y,N
+12F58F63,18-24 years old,Male,No,No,4 Upper Secondary School,8,4,4,3,3.1875,0,3.4,0,2,Y,N,Y,N,Y
+76201661,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,1.6875,0.6,1.9,0,1.5,Y,Y,Y,N,Y
+ADD646D6,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,1.8125,1.2,2.8,0,1.5,Y,Y,Y,N,Y
+9612E076,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,1.5,-0.2,2.2,0.75,0.25,Y,N,Y,Y,Y
+05DB09EB,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,2.8125,0.6,2.4,0,1.5,Y,Y,Y,N,Y
+620AC312,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,0.875,0,0.9,0,0,Y,N,Y,N,N
+DA9192C8,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,0.75,0.4,0.6,0.75,0.5,Y,Y,Y,Y,Y
+DDB3E15D,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,2.625,0.2,2.2,-0.25,1.5,Y,Y,Y,N,Y
+43BBE4B8,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,0.75,0.4,2.1,0,1.75,Y,Y,Y,N,Y
+DEC9D25E,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,1.625,0.2,2.1,0,0,Y,Y,Y,N,N
+A2DD44DB,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,0.4375,0.6,1.3,0,0.5,Y,Y,Y,N,Y
+5C2AF39B,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,1.4375,-0.2,3.5,1.25,0.75,Y,N,Y,Y,Y
+CAA1626E,18-24 years old,Female,No,No,4 Upper Secondary School,10,3,4,5,1.8125,0,1.9,0,0,Y,N,Y,N,N
+8A08FD8B,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,1.8125,0.4,2.2,1,1,Y,Y,Y,Y,Y
+6AE6395B,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,2.875,-0.4,3.2,0.25,0.75,Y,N,Y,Y,Y
+22B0774C,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,0.6875,0.2,0.3,0,0,Y,Y,Y,N,N
+A84DFF5D,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,-0.0625,-0.2,0.9,-1,0.5,N,N,Y,N,Y
+14AE8C08,18-24 years old,Male,No,No,4 Upper Secondary School,8,4,4,3,1.0625,0.2,3.4,0.75,-0.5,Y,Y,Y,Y,N
+4C07D05D,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,0.5625,-0.2,1.9,0.5,-0.5,Y,N,Y,Y,N
+5521DD9E,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,2.3125,1.6,3.5,0,-0.5,Y,Y,Y,N,N
+7ED70057,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,0.0625,0.4,1.6,0,1,Y,Y,Y,N,Y
+9CC81C42,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,2.3125,0.8,2.8,0,1.25,Y,Y,Y,N,Y
+0EC3588E,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,0.75,0.4,1.2,-0.75,1.25,Y,Y,Y,N,Y
+02813A9B,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,0.8125,-0.4,1.5,0.75,0.5,Y,N,Y,Y,Y
+41672994,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,2.3125,0.6,1.6,-0.75,1.25,Y,Y,Y,N,Y
+B2950B9E,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,0.9375,0,2,0.25,2,Y,N,Y,Y,Y
+82746FA6,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,1.3125,0,2,-0.25,1.75,Y,N,Y,N,Y
+0DC362C6,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,1.8125,0.4,1.7,0,1.75,Y,Y,Y,N,Y
+E84E7218,18-24 years old,Female,No,No,4 Upper Secondary School,8,3,3,3,2.0625,0.2,2,1,1.25,Y,Y,Y,Y,Y
+FDB97E0C,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,2.375,0,2.8,1.5,1,Y,N,Y,Y,Y
+EB00D30B,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,1.75,0,2.5,0,0.75,Y,N,Y,N,Y
+120F1C41,18-24 years old,Female,No,No,4 Upper Secondary School,10,4,4,3,0.6875,0.4,0.9,0.5,0.75,Y,Y,Y,Y,Y
+D859B482,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,0.6875,0.4,1.3,0,1,Y,Y,Y,N,Y
+01EF6B3E,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,2.1875,0.6,2,-0.25,2,Y,Y,Y,N,Y
+1DF9BFCA,18-24 years old,Male,No,No,4 Upper Secondary School,8,4,5,5,1.6875,0.4,2.5,0,3.25,Y,Y,Y,N,Y
+EC9C5617,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,0.875,-0.8,1.7,-0.25,0.5,Y,N,Y,N,Y
+EF094F3B,18-24 years old,Female,No,No,4 Upper Secondary School,9,3,3,3,2.5625,-0.2,3.1,0,0,Y,N,Y,N,N
+596B1E66,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,1.1875,0.4,0.8,0,2,Y,Y,Y,N,Y
+28F0178F,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,1.375,-0.2,1,0.75,1,Y,N,Y,Y,Y
+2852FA51,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,1.75,0.6,1.7,0,0.5,Y,Y,Y,N,Y
+4EE8350E,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,1.3125,-0.6,1.9,0.75,1.5,Y,N,Y,Y,Y
+30232653,18-24 years old,Female,No,No,4 Upper Secondary School,9,4,4,3,1.125,-0.2,0.4,0.5,0.25,Y,N,Y,Y,Y
+6843BA45,18-24 years old,Female,No,No,4 Upper Secondary School,10,3,3,3,1,-0.8,1.3,0.75,0.75,Y,N,Y,Y,Y
+B57C875A,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,1.625,0.4,2.8,1,-1.5,Y,Y,Y,Y,N
+D57B94C7,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,2.125,1,2.5,1.25,1,Y,Y,Y,Y,Y
+CBA00364,18-24 years old,Female,No,No,4 Upper Secondary School,10,4,4,3,1.9375,0.2,2.8,0.5,1.25,Y,Y,Y,Y,Y
+78BD7F1C,18-24 years old,Female,No,No,4 Upper Secondary School,7,4,4,3,0.625,0,2.6,1,0,Y,N,Y,Y,N
+D83FB104,18-24 years old,Male,No,No,4 Upper Secondary School,10,5,5,5,2.25,-0.2,2.4,0,1.25,Y,N,Y,N,Y
+ED1A7C06,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,0.875,0.4,2.1,1,0.75,Y,Y,Y,Y,Y
+6895B5C5,18-24 years old,Male,No,No,4 Upper Secondary School,10,5,5,5,2.125,-0.4,3.4,0.5,1.5,Y,N,Y,Y,Y
+F801B576,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,0.8125,0.2,0.6,0,-0.75,Y,Y,Y,N,N
+E3D11D28,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,0,0,0,0.25,0,N,N,N,Y,N
+7D972EA2,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,0.6875,-0.2,2.5,0,2,Y,N,Y,N,Y
+C2CA443C,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,1.1875,-0.8,1.9,1,-0.75,Y,N,Y,Y,N
+69D0E99D,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,1,1.2,2.2,-0.5,1,Y,Y,Y,N,Y
+EDA56E70,18-24 years old,Female,No,No,4 Upper Secondary School,8,4,4,4,3.5,-0.4,3.6,-0.5,1.25,Y,N,Y,N,Y
+8F52AA1F,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,1.4375,0.6,1.6,-0.25,1.25,Y,Y,Y,N,Y
+946C8806,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,2.1875,-0.4,2.2,0,0.75,Y,N,Y,N,Y
+EFB044B2,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,-0.0625,0.2,1.5,0,-0.25,N,Y,Y,N,N
+F80668E5,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,2.375,0.2,2.8,1.5,2.5,Y,Y,Y,Y,Y
+8E71520E,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,1.25,0.4,2.3,1,-0.5,Y,Y,Y,Y,N
+0F487B6A,18-24 years old,Female,No,No,4 Upper Secondary School,7,4,4,4,1.5625,0.4,2.5,1.25,2,Y,Y,Y,Y,Y
+B745179A,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,1.5,-0.6,2.7,0.25,0.25,Y,N,Y,Y,Y
+76CEDAF6,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,0.5625,-0.8,2,0,1.25,Y,N,Y,N,Y
+7ECE7246,18-24 years old,Male,No,No,4 Upper Secondary School,10,4,4,4,2.75,1,3.1,0,1.75,Y,Y,Y,N,Y
+85707DA7,18-24 years old,Male,No,No,4 Upper Secondary School,10,4,4,4,1.8125,-0.4,2.7,-0.25,0.5,Y,N,Y,N,Y
+3019EF0E,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,2.875,0.4,1.1,0,2.25,Y,Y,Y,N,Y
+DFD70C82,18-24 years old,Male,No,No,4 Upper Secondary School,7,4,4,3,2.5625,1.2,3.2,0,0.5,Y,Y,Y,N,Y
+8079A7FC,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,1.25,1,0.7,0,0.25,Y,Y,Y,N,Y
+20D18B82,18-24 years old,Male,No,No,4 Upper Secondary School,10,5,5,5,1.875,0.2,2.9,0.75,0,Y,Y,Y,Y,N
+9C278347,18-24 years old,Female,No,No,4 Upper Secondary School,10,4,4,4,1.0625,-0.6,2.2,0,0.5,Y,N,Y,N,Y
+E0869936,18-24 years old,Female,No,No,4 Upper Secondary School,8,3,3,5,2.125,-1.6,3.2,-0.25,-1,Y,N,Y,N,N
+2E465B70,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,1.4375,0.4,2.2,0.25,0.75,Y,Y,Y,Y,Y
+718EA023,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,1.125,0.6,2.3,0.5,-0.25,Y,Y,Y,Y,N
+2729812B,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,-0.0625,-0.2,0.8,0.25,-0.25,N,N,Y,Y,N
+1AACE4A7,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,1.375,0,3.4,1.5,1.5,Y,N,Y,Y,Y
+C6A458B6,18-24 years old,Male,No,No,4 Upper Secondary School,9,4,4,4,2.25,0.2,3.2,-0.25,0.5,Y,Y,Y,N,Y
+C80036EF,18-24 years old,Male,No,No,4 Upper Secondary School,10,5,5,5,-0.1875,0,2.8,0,1.5,N,N,Y,N,Y
+C207C7E8,18-24 years old,Female,No,No,4 Upper Secondary School,10,4,4,3,1.875,-0.6,2.4,0,1,Y,N,Y,N,Y
+990564AA,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,0.75,1,1.3,1.25,1.5,Y,Y,Y,Y,Y
+6D5793F8,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,1.75,0.2,2.1,0,1,Y,Y,Y,N,Y
+AB18C394,18-24 years old,Male,No,No,4 Upper Secondary School,9,4,4,3,0.4375,0,3,0,1.25,Y,N,Y,N,Y
+9586F891,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,1.6875,0.2,0.9,0,0.5,Y,Y,Y,N,Y
+D947FDDA,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,2.25,0,1.3,0,-1,Y,N,Y,N,N
+720F0486,18-24 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,1,-0.6,0.7,1,0.5,Y,N,Y,Y,Y
+AEF5B133,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,1.625,0.8,3.2,1.25,2.25,Y,Y,Y,Y,Y
+5D92F6C7,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,1.5625,1,2.1,0,2.25,Y,Y,Y,N,Y
+FC08BDBF,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,2.0625,0,0.5,0.5,1,Y,N,Y,Y,Y
+6E81D45F,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,1.375,0.4,2.6,-0.5,0.75,Y,Y,Y,N,Y
+FA453525,18-24 years old,Male,No,No,4 Upper Secondary School,10,5,5,5,0.6875,0,1.2,0,1,Y,N,Y,N,Y
+248F59EC,18-24 years old,Male,No,No,4 Upper Secondary School,7,4,4,4,1.25,-0.4,1.3,1,-0.5,Y,N,Y,Y,N
+97858223,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,1.625,-0.8,1.8,0,1.5,Y,N,Y,N,Y
+002D2450,18-24 years old,Female,No,No,4 Upper Secondary School,10,4,4,4,1.75,0,1.8,0,1,Y,N,Y,N,Y
+0D4DC1F8,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,1.75,-1,2.6,0.5,0.25,Y,N,Y,Y,Y
+0672991A,18-24 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,3.25,-0.4,3.5,1,0.75,Y,N,Y,Y,Y
+60A888DA,18-24 years old,Female,No,No,4 Upper Secondary School,7,4,4,3,2,0,1.2,0.5,1.25,Y,N,Y,Y,Y
+974D2364,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+95D4C15C,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+8BD18B8F,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+E539460D,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,-0.3125,-0.6,-0.4,-0.25,0.25,N,N,N,N,Y
+E2FD32A2,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+9DAD4102,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,-0.1875,0.8,0.2,-0.5,-0.75,N,Y,Y,N,N
+A4453F6B,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,4,4,3,2.125,0.6,2.8,-0.5,-0.5,Y,Y,Y,N,N
+D92D4AD8,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0.5,0,N,N,N,Y,N
+D3C05DE7,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+3FC4F4CF,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+D4645759,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+AF337382,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,5,5,5,-0.125,-0.2,1,0.25,-0.75,N,N,Y,Y,N
+23DA2309,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+648DC1FE,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+3FEC4EF9,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+52ED0F73,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+EE5D8261,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+C76E7C49,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,3.125,0.6,3.2,1.75,2.5,Y,Y,Y,Y,Y
+738A85C5,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,1.6875,0.4,1.8,0,0.25,Y,Y,Y,N,Y
+7ECB685A,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,5,5,5,1.8125,0,1.1,0,1.5,Y,N,Y,N,Y
+D5DC4E78,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,4,4,3,1.625,0.4,2.6,0,1,Y,Y,Y,N,Y
+D2C64330,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+290CDA35,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,1.75,0.2,2.9,0,0.75,Y,Y,Y,N,Y
+47134AA4,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,4,4,3,0,0,0,0,0,N,N,N,N,N
+B70B311D,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+A1DFA940,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,4,4,3,0,0,0,0,0,N,N,N,N,N
+4D9A135E,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+2D47A9F8,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,5,5,5,-0.1875,0,0,-0.25,-0.25,N,N,N,N,N
+B6C9DDB0,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,4,4,3,0,0,0,0,0,N,N,N,N,N
+0AB47503,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+EE6236F8,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+4E776A2A,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+9F93B53F,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+FCD7169E,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+E2DADE9A,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,3,3,3,0,0.4,0.1,-0.5,0.75,N,Y,Y,N,Y
+3146699B,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+1F6016EA,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+78C9B29A,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,3.125,0.8,1.9,0,-0.25,Y,Y,Y,N,N
+2A24B2B9,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+29E64878,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+91BCFDC5,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+DE793C19,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,1.875,0.4,2.8,0.5,0,Y,Y,Y,Y,N
+623913F4,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,5,5,5,1.9375,0.8,3,0,2,Y,Y,Y,N,Y
+FF2B59A6,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+722C3212,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+F0099C4C,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+9CEC3D9B,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,1.75,0.8,2,0,0.25,Y,Y,Y,N,Y
+164D1D3B,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+4E88D83B,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,4,4,3,0,0,0,0,0,N,N,N,N,N
+8F731A44,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,4,4,3,-0.375,-1,0.6,-0.5,-0.25,N,N,Y,N,N
+59EADE13,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+6AA31AE4,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+798C8679,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+CFBDA924,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+135E2FAA,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+CFED414B,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,-0.125,0.8,-0.2,0.25,0.5,N,Y,N,Y,Y
+8894E5AF,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,3,4,5,0,0,0,0,0,N,N,N,N,N
+BA00CFB1,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+DDDC5BEE,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+47F888B9,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+BD967A8A,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+44A05A71,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+99E5AE83,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0.375,-0.4,1.1,-0.25,1.5,Y,N,Y,N,Y
+E0A4B3D7,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+BCAB5129,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+C3A7A495,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+627D4BD4,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,-0.125,0,0.2,-0.25,0,N,N,Y,N,N
+C7E405C9,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+A7075A61,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,-0.4375,-0.6,-0.3,-0.75,-0.25,N,N,N,N,N
+5DA85851,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+B97EE819,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,2.0625,0.6,1.7,1,0.5,Y,Y,Y,Y,Y
+8736CD89,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+5F294032,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+0D0A12B4,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,2.3125,-0.6,1.6,0.25,0.5,Y,N,Y,Y,Y
+1F0ABC41,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+BC66A944,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,1.5625,-0.6,2.7,0.75,1.25,Y,N,Y,Y,Y
+C82E5D1D,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0.0625,0.4,-0.4,-0.75,0.25,Y,Y,N,N,Y
+C510B6B6,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+BD831D05,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,4,4,3,0,0.4,0,-0.5,0,N,Y,N,N,N
+9D98F107,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+25124D23,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+1328470B,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+014E03B8,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0.1875,0,0.3,0.25,0,Y,N,Y,Y,N
+F280F82A,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,4,4,4,-0.5625,0.4,0.1,-1.5,1.25,N,Y,Y,N,Y
+AF12E811,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+4A0291A9,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0.125,0.6,0.1,0,1,Y,Y,Y,N,Y
+ED7169D1,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+F8A79C28,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+3CFF7E4C,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+B025EAB6,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,3,3,3,0,0,0,0,0,N,N,N,N,N
+9F4D3CF6,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+1FA85888,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+F55AAB8F,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,4,4,3,0,0,0,0,0,N,N,N,N,N
+75B01D32,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,4,4,3,0.9375,0,2,1.25,-1.75,Y,N,Y,Y,N
+525D8C36,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,5,5,5,1.5,-0.6,0.7,0,0.25,Y,N,Y,N,Y
+BC6C12E4,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,4,4,3,-0.5,0.2,0.4,0.5,-0.75,N,Y,Y,Y,N
+B3E3E973,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+021173FB,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+63481018,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,-0.4375,-0.2,-0.3,0,0.25,N,N,N,N,Y
+78588237,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,4,4,4,-1.25,0.6,-0.2,-1.5,-0.75,N,Y,N,N,N
+94D3FD24,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0.125,0,-0.1,0.5,0.25,Y,N,N,Y,Y
+E58B55B1,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+B1F2D128,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,4,4,3,0,0,0,0,0,N,N,N,N,N
+F4706587,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+32C8198C,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0.5625,0,2.3,0.25,-0.75,Y,N,Y,Y,N
+88B15911,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0.1875,0,-0.6,0.5,0,Y,N,N,Y,N
+6A44EA71,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,4,4,3,0,0,0,0,0,N,N,N,N,N
+E71D87FC,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+55F71C73,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+10B6D9BE,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+540D1A2F,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+97CAAE16,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,4,5,5,0,0,0,0,0,N,N,N,N,N
+96C478F9,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,10,5,5,5,-0.0625,0.4,-0.3,-0.75,0,N,Y,N,N,N
+BEE4200B,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,8,4,4,4,-0.9375,-0.2,-1.5,-1.75,-1,N,N,N,N,N
+ABEDAE4C,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0.1875,0.4,0.7,0,0,Y,Y,Y,N,N
+AEAE81D7,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+5C2ADDCE,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+8B1B699C,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+9DA9A116,25-34 years old,Female,No,No,8 University Degree,7,5,5,5,1.875,0,3.2,0.5,2.5,Y,N,Y,Y,Y
+A88F405B,25-34 years old,Male,No,No,8 University Degree,7,5,5,5,-0.3125,-0.8,1.7,0,-0.25,N,N,Y,N,N
+98129B7F,25-34 years old,Male,No,No,8 University Degree,9,5,5,5,2.0625,0.6,2,2.25,-0.5,Y,Y,Y,Y,N
+F1792581,25-34 years old,Male,No,No,8 University Degree,7,4,4,4,0.875,-0.2,1.3,-0.25,1.25,Y,N,Y,N,Y
+6868B8BD,25-34 years old,Male,No,No,8 University Degree,8,5,5,5,1,0.2,2,-1,1,Y,Y,Y,N,Y
+FAAB0F24,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0.875,-0.6,2.5,0,-0.75,Y,N,Y,N,N
+7C7143F8,25-34 years old,Male,No,No,8 University Degree,9,5,5,5,1.9375,0,2.7,0.25,2.25,Y,N,Y,Y,Y
+CA1675C9,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,1,0.2,1.8,0.25,0,Y,Y,Y,Y,N
+ACC5A186,25-34 years old,Male,No,No,8 University Degree,9,5,5,5,2.125,-0.2,2.5,0.75,0.75,Y,N,Y,Y,Y
+009D88AE,25-34 years old,Male,No,No,8 University Degree,9,5,5,5,1.1875,0.6,2.1,0.25,1.5,Y,Y,Y,Y,Y
+02C585FC,25-34 years old,Male,No,No,8 University Degree,10,5,5,5,1.1875,1,2.2,0.5,1,Y,Y,Y,Y,Y
+BE75D9F7,35-44 years old,Female,No,No,8 University Degree,9,4,4,4,2,0.8,3.2,0,-1.75,Y,Y,Y,N,N
+1137E91F,35-44 years old,Female,No,No,8 University Degree,8,4,4,4,1.6875,1.2,2.6,0,0.5,Y,Y,Y,N,Y
+B3F39E3D,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,0.875,0.2,0.1,0,-0.25,Y,Y,Y,N,N
+79D88CCD,35-44 years old,Female,No,No,8 University Degree,9,5,5,5,2.1875,0.2,2.5,0,0.25,Y,Y,Y,N,Y
+6331A3A5,35-44 years old,Female,No,No,8 University Degree,10,5,5,5,2.3125,0.4,2.9,0,1.75,Y,Y,Y,N,Y
+E1C271E8,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,2.125,0,3.2,0,2.5,Y,N,Y,N,Y
+F32319E5,35-44 years old,Female,No,No,8 University Degree,7,5,5,5,1.8125,0.6,2,1,1.75,Y,Y,Y,Y,Y
+B9144118,35-44 years old,Male,No,No,8 University Degree,8,5,5,5,1.1875,-0.8,1,0.5,0.75,Y,N,Y,Y,Y
+90F2E065,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,1.875,-1,2.5,-0.75,-0.25,Y,N,Y,N,N
+E7A3F53C,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,1.5,0,2,0,0,Y,N,Y,N,N
+1D90CC69,45-54 years old,Female,No,No,8 University Degree,10,5,5,5,2.75,0,3.3,1.25,0.5,Y,N,Y,Y,Y
+3175E01F,45-54 years old,Male,No,No,8 University Degree,9,5,5,5,1.625,0.2,2.6,1.5,1.25,Y,Y,Y,Y,Y
+FE9A9CBC,45-54 years old,Female,No,No,8 University Degree,7,5,5,5,0.4375,-0.2,1.7,1,1,Y,N,Y,Y,Y
+E1E24A0C,45-54 years old,Male,No,No,8 University Degree,7,4,4,3,1.625,-0.4,1.7,0.5,-0.25,Y,N,Y,Y,N
+D2699C11,45-54 years old,Female,No,No,8 University Degree,9,5,5,5,2.125,0.6,3.2,0,0.25,Y,Y,Y,N,Y
+DA32698B,55-64 years old,Male,No,No,8 University Degree,10,4,4,3,2.5,0.8,2.7,1.25,1.75,Y,Y,Y,Y,Y
+256224D8,55-64 years old,Male,No,No,8 University Degree,9,5,5,5,2.75,-0.4,2.8,0,1.5,Y,N,Y,N,Y
+04C2C529,55-64 years old,Male,No,No,8 University Degree,8,5,5,5,2.1875,0.2,2.6,0.25,1.25,Y,Y,Y,Y,Y
+4B1780AB,55-64 years old,Male,No,No,8 University Degree,9,5,5,5,0.625,0.4,0.7,1,-0.25,Y,Y,Y,Y,N
+F47B2623,55-64 years old,Male,No,No,8 University Degree,10,5,5,5,0.5,-0.2,1.4,0,0.25,Y,N,Y,N,Y
+3118E182,55-64 years old,Male,No,No,8 University Degree,8,5,5,5,1.5,0.6,2.5,0,-0.25,Y,Y,Y,N,N
+40D9608D,65-74 years old,Male,No,No,8 University Degree,9,5,5,5,2.5,-0.6,2.7,0,1,Y,N,Y,N,Y
+AE3FCA70,Below 12 years old,Female,No,No,2 Primary School,10,5,5,5,3.5625,0.6,3.3,-0.25,1.25,Y,Y,Y,N,Y
+463A5164,Below 12 years old,Female,No,No,2 Primary School,7,5,5,5,0.6875,-0.8,1.3,0,0.25,Y,N,Y,N,Y
+1C6DEE4B,Below 12 years old,Male,No,No,2 Primary School,7,5,5,5,2.1875,-0.8,2.4,0.75,1.75,Y,N,Y,Y,Y
+CB75FAE8,Below 12 years old,Male,No,No,2 Primary School,9,3,3,3,1.9375,1.2,3.3,0.75,0.5,Y,Y,Y,Y,Y
+B5E8FA27,18-24 years old,Female,No,No,3 Lower Secondary School,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+C9263A74,18-24 years old,Female,No,No,3 Lower Secondary School,10,4,5,5,-0.0625,0.4,-0.3,-0.75,0,N,Y,N,N,N
+36D3A13F,18-24 years old,Female,No,No,3 Lower Secondary School,10,3,3,3,0,0,0,0,0,N,N,N,N,N
+65DD2015,18-24 years old,Female,No,No,3 Lower Secondary School,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+DCBF9561,18-24 years old,Female,No,No,3 Lower Secondary School,9,5,5,5,0,0.4,0,-0.5,0,N,Y,N,N,N
+1EC38345,18-24 years old,Male,Yes,No,4 Upper Secondary School,9,3,4,5,0,0,0,0,0,N,N,N,N,N
+B75C0B12,18-24 years old,Male,No,Yes,4 Upper Secondary School,7,3,3,3,-0.375,-1,0.6,-0.5,-0.25,N,N,Y,N,N
+51C5F9FC,18-24 years old,Male,No,No,4 Upper Secondary School,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+479BCC97,18-24 years old,Male,No,No,4 Upper Secondary School,8,4,4,4,-0.9375,-0.2,-1.5,-1.75,-1,N,N,N,N,N
+AE5E7BC9,18-24 years old,Male,No,No,4 Upper Secondary School,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+15077E1B,18-24 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+427B19D1,18-24 years old,Female,No,No,4 Upper Secondary School,9,3,3,3,0,0,0,0,0,N,N,N,N,N
+1EE78FB7,18-24 years old,Male,No,No,4 Upper Secondary School,8,3,3,5,0,0,0,0,0,N,N,N,N,N
+179F3E76,18-24 years old,Male,No,No,4 Upper Secondary School,8,3,3,3,0.0625,0.4,-0.4,-0.75,0.25,Y,Y,N,N,Y
+770B6EAC,18-24 years old,Female,No,No,8 University Degree,10,5,5,5,0.1875,0,-0.6,0.5,0,Y,N,N,Y,N
+7E113661,18-24 years old,Female,Yes,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+F238CF2C,18-24 years old,Male,No,No,8 University Degree,8,3,2,2,0,0,0,0,0,N,N,N,N,N
+C2CCED52,18-24 years old,Female,Yes,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+0FA71BDB,18-24 years old,Female,No,No,3 Lower Secondary School,7,3,2,3,0,0,0,0,0,N,N,N,N,N
+6B10183A,18-24 years old,Male,Yes,No,4 Upper Secondary School,8,5,5,5,0.1875,0,0.3,0.25,0,Y,N,Y,Y,N
+E29864ED,18-24 years old,Female,No,No,6 Junior College / Pre-University Institution,7,4,3,3,-0.5,0.2,0.4,0.5,-0.75,N,Y,Y,Y,N
+6CE33CDC,18-24 years old,Male,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+58625F1B,18-24 years old,Male,No,No,3 Lower Secondary School,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+2A464E7B,18-24 years old,Male,Yes,No,8 University Degree,10,3,5,5,0,0,0,0,0,N,N,N,N,N
+EF4F4913,18-24 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+1BDECF11,18-24 years old,Female,Yes,No,8 University Degree,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+30E7C952,18-24 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+3370AFF1,18-24 years old,Female,No,No,7 Polytechnic,7,3,3,3,-0.4375,-0.6,-0.3,-0.75,-0.25,N,N,N,N,N
+B1B4197C,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+9D4A5CA2,18-24 years old,Male,No,Yes,7 Polytechnic,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+3A94123E,18-24 years old,Male,No,No,8 University Degree,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+ED5FAE74,18-24 years old,Female,No,No,4 Upper Secondary School,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+29B2EEC6,18-24 years old,Male,No,No,7 Polytechnic,8,5,3,3,0.1875,0.4,0.7,0,0,Y,Y,Y,N,N
+2856B117,18-24 years old,Female,No,No,8 University Degree,10,3,3,3,0,0,0,0,0,N,N,N,N,N
+3414D68B,18-24 years old,Female,No,No,9 Postgraduate Degree,10,5,5,5,-0.4375,-0.2,-0.3,0,0.25,N,N,N,N,Y
+E58478F0,18-24 years old,Male,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+FA0985D9,18-24 years old,Female,No,No,8 University Degree,10,4,3,3,0,0,0,0,0,N,N,N,N,N
+DC0773B5,18-24 years old,Female,No,No,2 Primary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+69B0A70A,18-24 years old,Female,No,No,3 Lower Secondary School,9,3,3,3,0,0,0,0,0,N,N,N,N,N
+1E0FEE14,18-24 years old,Female,Yes,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+9871B2A1,18-24 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+993EC26D,18-24 years old,Female,No,No,8 University Degree,9,5,5,5,-1.25,0.6,-0.2,-1.5,-0.75,N,Y,N,N,N
+881265D9,18-24 years old,Female,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+E50D5EC9,18-24 years old,Female,No,No,8 University Degree,7,4,5,5,0,0,0,0,0,N,N,N,N,N
+83342936,18-24 years old,Female,No,No,8 University Degree,9,5,5,5,-0.1875,0.8,0.2,-0.5,-0.75,N,Y,Y,N,N
+27B19DFB,18-24 years old,Male,No,No,8 University Degree,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+40B1F5DB,18-24 years old,Male,No,No,4 Upper Secondary School,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+CA2320A2,18-24 years old,Female,No,No,8 University Degree,8,5,3,3,0,0,0,0,0,N,N,N,N,N
+82DD92FD,18-24 years old,Female,No,No,9 Postgraduate Degree,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+AC0F2184,18-24 years old,Male,Yes,Yes,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+38343953,18-24 years old,Female,No,No,8 University Degree,7,2,3,3,0,0,0,0,0,N,N,N,N,N
+93E2F076,18-24 years old,Female,No,No,9 Postgraduate Degree,10,4,5,4,0,0,0,0,0,N,N,N,N,N
+5C0FF679,18-24 years old,Female,Yes,Yes,9 Postgraduate Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+34E48FFD,18-24 years old,Male,No,No,8 University Degree,8,4,4,4,0,0,0,0,0,N,N,N,N,N
+A85C6027,18-24 years old,Female,No,No,9 Postgraduate Degree,7,5,5,5,-0.125,0.8,-0.2,0.25,0.5,N,Y,N,Y,Y
+88D4245D,18-24 years old,Female,No,No,8 University Degree,9,5,5,5,0,0,0,0.5,0,N,N,N,Y,N
+1AAA6C44,18-24 years old,Female,No,No,9 Postgraduate Degree,8,1,1,1,-0.1875,0,0,-0.25,-0.25,N,N,N,N,N
+8B082BF0,18-24 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+F86885AF,18-24 years old,Male,No,No,8 University Degree,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+FBA1AF7A,18-24 years old,Female,Yes,Yes,4 Upper Secondary School,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+4CC12712,18-24 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+8194E497,18-24 years old,Female,No,No,9 Postgraduate Degree,8,3,3,3,0,0,0,0,0,N,N,N,N,N
+4FF3A04E,18-24 years old,Male,No,No,6 Junior College / Pre-University Institution,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+CD15F2AD,18-24 years old,Female,Yes,No,9 Postgraduate Degree,8,5,5,5,-0.3125,-0.6,-0.4,-0.25,0.25,N,N,N,N,Y
+191FC884,18-24 years old,Male,Yes,No,8 University Degree,9,5,4,4,0,0,0,0,0,N,N,N,N,N
+B8C0CE7F,18-24 years old,Female,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+D1B6BF83,18-24 years old,Male,Yes,No,9 Postgraduate Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+81CE60EA,18-24 years old,Female,No,No,7 Polytechnic,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+1A50095E,18-24 years old,Male,No,No,4 Upper Secondary School,8,4,5,4,0,0,0,0,0,N,N,N,N,N
+26186E86,18-24 years old,Female,No,No,9 Postgraduate Degree,10,3,4,5,0,0.4,0.1,-0.5,0.75,N,Y,Y,N,Y
+BCC39AF1,18-24 years old,Female,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+9CD0F054,18-24 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+4C5EAE5C,18-24 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+BBE8D51B,18-24 years old,Female,No,No,8 University Degree,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+2C126EA5,18-24 years old,Male,Yes,Yes,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+2B6D5D4D,25-34 years old,Female,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+28D8D016,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+38E28740,25-34 years old,Female,Yes,Yes,8 University Degree,8,4,4,4,0,0,0,0,0,N,N,N,N,N
+8D7D2CA5,25-34 years old,Male,Yes,Yes,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+D2143D65,25-34 years old,Female,Yes,No,1 No formal education,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+41BB7179,25-34 years old,Male,No,No,8 University Degree,8,4,4,4,0.375,-0.4,1.1,-0.25,1.5,Y,N,Y,N,Y
+803F3B1B,25-34 years old,Female,Yes,Yes,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+3281F9B1,25-34 years old,Female,Yes,Yes,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+350DE087,25-34 years old,Female,Yes,Yes,8 University Degree,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+494F64A3,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+D9F46058,25-34 years old,Female,No,No,8 University Degree,9,1,1,1,0,0,0,0,0,N,N,N,N,N
+8E66FC7F,25-34 years old,Female,No,No,8 University Degree,7,3,4,5,0,0,0,0,0,N,N,N,N,N
+4B3B0534,25-34 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+7A2B8344,25-34 years old,Female,Yes,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+21BC7B98,25-34 years old,Female,Yes,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+CE997A9B,25-34 years old,Female,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+04495912,25-34 years old,Female,No,No,4 Upper Secondary School,7,5,5,5,0.125,0,-0.1,0.5,0.25,Y,N,N,Y,Y
+BFD73471,25-34 years old,Male,No,No,8 University Degree,10,4,4,4,0.125,0.6,0.1,0,1,Y,Y,Y,N,Y
+3B015132,25-34 years old,Female,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+7B624980,25-34 years old,Female,No,No,4 Upper Secondary School,10,4,5,5,0,0,0,0,0,N,N,N,N,N
+AF05CDD4,25-34 years old,Female,No,No,4 Upper Secondary School,7,4,3,5,0,0,0,0,0,N,N,N,N,N
+D5C742AC,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+16F0DF89,25-34 years old,Female,No,No,4 Upper Secondary School,10,2,3,3,0,0,0,0,0,N,N,N,N,N
+B8498B40,25-34 years old,Female,No,No,8 University Degree,10,5,5,5,-0.5625,0.4,0.1,-1.5,1.25,N,Y,Y,N,Y
+B7B6B96C,25-34 years old,Female,No,No,9 Postgraduate Degree,10,5,5,5,-0.125,0,0.2,-0.25,0,N,N,Y,N,N
+CFAF02FF,25-34 years old,Male,No,No,4 Upper Secondary School,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+394729AA,25-34 years old,Female,No,Yes,8 University Degree,9,3,3,3,-0.125,-0.2,1,0.25,-0.75,N,N,Y,Y,N
+8CC3BD78,25-34 years old,Male,No,No,8 University Degree,7,3,2,2,0,0,0,0,0,N,N,N,N,N
+A9A7C988,25-34 years old,Female,Yes,No,9 Postgraduate Degree,10,3,2,2,0,0,0,0,0,N,N,N,N,N
+235FCB08,25-34 years old,Female,No,No,2 Primary School,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+EF96D0DF,25-34 years old,Female,No,No,8 University Degree,7,3,3,3,-0.1875,-0.2,0,-0.25,0,N,N,N,N,N
+5702179D,25-34 years old,Female,Yes,Yes,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+DA51C690,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+59B0B85F,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+5E1A8099,25-34 years old,Female,Yes,Yes,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+2C003A3F,25-34 years old,Male,Yes,Yes,4 Upper Secondary School,7,5,5,5,-0.25,-0.2,-0.4,0,0,N,N,N,N,N
+C7C8254B,25-34 years old,Female,Yes,Yes,8 University Degree,10,3,3,3,0,0,0,0,0,N,N,N,N,N
+0128C58F,25-34 years old,Male,No,No,8 University Degree,8,4,4,4,0.3125,-0.6,-0.2,0,-0.75,Y,N,N,N,N
+1C592781,25-34 years old,Female,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+71292C5B,25-34 years old,Male,Yes,Yes,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+FF566982,25-34 years old,Male,No,No,8 University Degree,10,3,4,5,0,0,0,0,0,N,N,N,N,N
+5A65324B,25-34 years old,Female,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+5B2703AB,25-34 years old,Male,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+6D2DAB02,25-34 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+5477597C,25-34 years old,Female,No,No,2 Primary School,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+7B7638D7,25-34 years old,Female,Yes,No,8 University Degree,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+74CD7B39,25-34 years old,Female,No,No,6 Junior College / Pre-University Institution,9,3,3,5,0,0,0,0,0,N,N,N,N,N
+E6E5C7B4,25-34 years old,Male,No,No,3 Lower Secondary School,8,5,5,5,-0.5,0.4,-1,-0.25,-0.75,N,Y,N,N,N
+4B8FFE6F,25-34 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+54AC1419,25-34 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+5763C7E7,25-34 years old,Male,Yes,No,8 University Degree,9,3,2,3,0,0,0,0,0,N,N,N,N,N
+2A57D52F,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+DF187932,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0.25,-0.2,0,0,-1,Y,N,N,N,N
+168E57EC,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0,0.2,0,-0.25,0,N,Y,N,N,N
+70A2725F,25-34 years old,Female,No,No,8 University Degree,9,3,3,3,0,0,0,0,0,N,N,N,N,N
+F53EA8AE,25-34 years old,Male,No,No,8 University Degree,8,3,5,5,0,0,0,0,0,N,N,N,N,N
+311CA3B2,25-34 years old,Female,No,No,8 University Degree,9,5,5,5,-0.125,-0.6,-0.1,0.25,0,N,N,N,Y,N
+F5F795DB,25-34 years old,Male,Yes,Yes,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+A1BB9A6D,25-34 years old,Male,No,No,8 University Degree,8,4,5,4,0.0625,0.2,-0.1,-0.5,-0.5,Y,Y,N,N,N
+DDA92641,25-34 years old,Female,No,No,8 University Degree,9,5,5,5,1.6875,0,1.1,0.75,0.75,Y,N,Y,Y,Y
+4E3E836B,25-34 years old,Female,No,No,8 University Degree,10,5,5,5,-0.125,0,-0.1,-0.5,-0.5,N,N,N,N,N
+308F540B,25-34 years old,Male,No,No,4 Upper Secondary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+4902136D,25-34 years old,Female,No,No,8 University Degree,9,3,3,3,0,0,0,0,0,N,N,N,N,N
+BE8D205F,25-34 years old,Female,Yes,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+E2A48BFB,25-34 years old,Female,No,No,9 Postgraduate Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+811C549A,25-34 years old,Female,No,No,8 University Degree,9,5,5,5,0.3125,0.4,0.3,0.5,0,Y,Y,Y,Y,N
+9E694E66,25-34 years old,Female,No,No,8 University Degree,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+976785AA,25-34 years old,Female,No,No,4 Upper Secondary School,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+A47DB22C,25-34 years old,Male,No,No,8 University Degree,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+E8692B05,25-34 years old,Female,Yes,Yes,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+772813AC,25-34 years old,Male,Yes,Yes,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+1543E058,25-34 years old,Male,Yes,Yes,8 University Degree,8,3,3,3,0,0,0,0,0,N,N,N,N,N
+43054D36,25-34 years old,Female,Yes,Yes,8 University Degree,7,4,3,3,0,0,0,0,0,N,N,N,N,N
+CCB52342,25-34 years old,Male,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+04080EE2,25-34 years old,Male,No,No,8 University Degree,9,4,4,4,-2,-0.4,1.6,1,-2,N,N,Y,Y,N
+ACC523C9,25-34 years old,Male,No,No,8 University Degree,7,3,3,3,0.5625,0.6,0.8,1,1,Y,Y,Y,Y,Y
+DC30CAAC,25-34 years old,Female,Yes,No,8 University Degree,8,3,3,3,0,0,0,0,0,N,N,N,N,N
+F6EB7824,25-34 years old,Female,Yes,Yes,4 Upper Secondary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+452C27BD,25-34 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+C609CBFE,25-34 years old,Female,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+56713014,25-34 years old,Female,No,No,7 Polytechnic,10,4,5,5,0,0,0,0,0,N,N,N,N,N
+E21AD9ED,25-34 years old,Female,No,No,8 University Degree,10,3,2,2,0.4375,0,-0.1,0,-0.25,Y,N,N,N,N
+BD57AE21,25-34 years old,Female,No,No,4 Upper Secondary School,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+FC854A6A,35-44 years old,Female,No,No,4 Upper Secondary School,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+7F326D86,35-44 years old,Female,No,No,8 University Degree,10,5,3,3,0,0,0,0,0,N,N,N,N,N
+26E7443C,35-44 years old,Female,No,No,9 Postgraduate Degree,9,4,4,4,0.75,0.6,0,0.25,-0.25,Y,Y,N,Y,N
+6600535A,35-44 years old,Female,No,No,3 Lower Secondary School,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+DE28C71F,35-44 years old,Female,Yes,Yes,9 Postgraduate Degree,7,2,3,3,0,0,0,0,0,N,N,N,N,N
+7A0280B8,35-44 years old,Male,Yes,No,4 Upper Secondary School,10,4,5,4,0,0,0,0,0,N,N,N,N,N
+89F0256A,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+04B4F5BD,35-44 years old,Male,Yes,No,9 Postgraduate Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+E6752CAE,35-44 years old,Male,No,No,8 University Degree,8,4,4,4,0,0,0,0,0,N,N,N,N,N
+DF8A66A1,35-44 years old,Female,Yes,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+5964D4A5,35-44 years old,Female,Yes,No,8 University Degree,7,4,4,4,0,0,0,0,0,N,N,N,N,N
+C9A339A2,35-44 years old,Female,No,No,8 University Degree,10,5,5,5,0.0625,0,0.3,0.25,0,Y,N,Y,Y,N
+AB5087DD,35-44 years old,Female,No,No,4 Upper Secondary School,10,3,3,3,0,0,0,0,0,N,N,N,N,N
+E6C2DE40,35-44 years old,Male,No,No,8 University Degree,9,3,3,3,-1.5625,-1.2,-1.4,-1.25,-1,N,N,N,N,N
+53415859,35-44 years old,Female,Yes,Yes,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+8E45F5C8,35-44 years old,Female,No,No,4 Upper Secondary School,10,3,3,3,0,0,0,0,0,N,N,N,N,N
+52B8B64B,35-44 years old,Female,No,No,8 University Degree,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+160EFCB7,35-44 years old,Male,Yes,No,8 University Degree,9,5,4,4,-0.6875,0.2,-0.8,0,0.5,N,Y,N,N,Y
+42ED7CA4,35-44 years old,Female,No,No,6 Junior College / Pre-University Institution,8,5,5,5,0.25,-1,0,-0.25,0,Y,N,N,N,N
+22866CFE,35-44 years old,Female,No,Yes,8 University Degree,8,5,4,4,0,0,0,0,0,N,N,N,N,N
+71AD64DD,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+45268C17,35-44 years old,Female,Yes,No,9 Postgraduate Degree,8,4,5,4,0.0625,0.2,-0.4,0.75,0.75,Y,Y,N,Y,Y
+E2383A5C,35-44 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,0.75,0.2,1.2,1,0,Y,Y,Y,Y,N
+D5DA5766,35-44 years old,Female,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+65EB5DBC,35-44 years old,Female,No,No,8 University Degree,10,4,5,4,0,0,0,0,0,N,N,N,N,N
+2BFA423A,35-44 years old,Female,No,No,8 University Degree,7,3,4,5,-0.25,-0.4,-1.4,-0.5,0.25,N,N,N,N,Y
+4EE96CA1,35-44 years old,Female,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+D128BEC9,35-44 years old,Male,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+15532640,35-44 years old,Female,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+55FBBFA8,35-44 years old,Male,No,No,4 Upper Secondary School,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+9363D88A,35-44 years old,Female,No,No,8 University Degree,9,5,5,5,-0.4375,-0.2,-0.5,0,-1,N,N,N,N,N
+E57FA8B3,35-44 years old,Female,No,No,8 University Degree,7,4,4,4,0,0,0,0,0,N,N,N,N,N
+BF14F090,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,-0.375,-0.2,0,-0.75,-0.5,N,N,N,N,N
+147364AC,35-44 years old,Female,No,No,9 Postgraduate Degree,8,5,5,5,-0.875,-0.4,-0.9,-1.5,0.25,N,N,N,N,Y
+56118216,35-44 years old,Male,No,No,4 Upper Secondary School,10,3,5,5,-0.375,0.2,-0.2,-0.5,-0.25,N,Y,N,N,N
+2AE49026,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+33FBD5EB,35-44 years old,Male,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+F5CDF1EF,35-44 years old,Female,Yes,No,9 Postgraduate Degree,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+C09454D5,35-44 years old,Male,No,No,9 Postgraduate Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+29C9B08A,35-44 years old,Female,No,No,2 Primary School,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+5C72678A,35-44 years old,Male,Yes,Yes,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+5B0BFC87,35-44 years old,Female,Yes,Yes,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+14F517E6,35-44 years old,Female,No,No,9 Postgraduate Degree,7,5,5,5,-1.8125,0.8,0.9,-2.5,0,N,Y,Y,N,N
+50F220D2,35-44 years old,Male,Yes,Yes,9 Postgraduate Degree,7,3,3,5,0.0625,0.2,0,0,-0.5,Y,Y,N,N,N
+6C1A8D82,35-44 years old,Female,No,No,8 University Degree,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+FFBD2FB4,35-44 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+344AB6DD,35-44 years old,Male,No,No,9 Postgraduate Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+28CEBCDA,35-44 years old,Female,No,No,4 Upper Secondary School,10,1,1,1,0,0,0,0,0,N,N,N,N,N
+8412B3CC,35-44 years old,Male,Yes,Yes,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+AC315E66,35-44 years old,Female,Yes,No,3 Lower Secondary School,10,3,4,5,0,0,0,0,0,N,N,N,N,N
+8F93D637,35-44 years old,Female,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+0C9DE0BC,35-44 years old,Female,Yes,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+CE424981,35-44 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+D4C96808,35-44 years old,Female,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+98BCBB10,35-44 years old,Female,No,No,3 Lower Secondary School,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+30D7F247,35-44 years old,Male,No,No,8 University Degree,8,4,5,5,0,0,0,0,0,N,N,N,N,N
+4D478F81,35-44 years old,Male,No,No,8 University Degree,8,4,3,5,0,0,0,0,0,N,N,N,N,N
+9C91E931,35-44 years old,Male,Yes,No,8 University Degree,8,4,4,4,-0.25,0,0,0,-0.25,N,N,N,N,N
+CF0B819B,35-44 years old,Male,No,No,9 Postgraduate Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+65B2BD96,35-44 years old,Female,No,No,8 University Degree,7,2,3,3,0,0,0,0,0,N,N,N,N,N
+B5E0B6F6,35-44 years old,Female,No,No,8 University Degree,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+8C91BE5B,35-44 years old,Male,No,No,8 University Degree,8,2,3,3,0.0625,0.6,-0.1,0.5,1,Y,Y,N,Y,Y
+EF6CA3AD,35-44 years old,Male,No,No,6 Junior College / Pre-University Institution,8,3,3,3,-0.4375,-0.2,0,0,-1.25,N,N,N,N,N
+53C59D28,35-44 years old,Female,Yes,No,8 University Degree,9,4,4,4,0.875,-0.2,0.3,0,1.5,Y,N,Y,N,Y
+A7EA4EC7,45-54 years old,Female,No,No,4 Upper Secondary School,8,5,5,5,-0.375,-0.4,0,-0.5,0,N,N,N,N,N
+5476575B,45-54 years old,Female,No,No,9 Postgraduate Degree,10,3,2,2,0,0,0,0,0,N,N,N,N,N
+A659CDBB,45-54 years old,Female,Yes,No,8 University Degree,10,3,2,2,0,0,0,0,0,N,N,N,N,N
+E81875FF,45-54 years old,Female,Yes,Yes,4 Upper Secondary School,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+864D0421,45-54 years old,Female,Yes,No,9 Postgraduate Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+1487D88C,45-54 years old,Female,No,No,8 University Degree,10,5,5,5,0,0,0.3,0.25,0,N,N,Y,Y,N
+5E55075F,45-54 years old,Male,No,No,9 Postgraduate Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+442780F2,45-54 years old,Male,No,No,6 Junior College / Pre-University Institution,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+FE74AEB4,45-54 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+040F0ECE,45-54 years old,Male,Yes,No,8 University Degree,9,3,3,3,0,0,0,0,0,N,N,N,N,N
+6B32297B,45-54 years old,Female,No,No,8 University Degree,9,5,5,5,0.125,0,0.1,-1,0.75,Y,N,Y,N,Y
+CDA5E665,45-54 years old,Female,No,No,8 University Degree,8,4,3,5,-0.1875,-0.4,-0.3,1.75,0.75,N,N,N,Y,Y
+092AB0A4,45-54 years old,Female,Yes,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+C2973043,45-54 years old,Female,No,No,8 University Degree,8,3,4,5,0,0,0,0,0,N,N,N,N,N
+DFA8A33C,45-54 years old,Female,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+E9092809,45-54 years old,Female,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+CFEDA4D7,45-54 years old,Male,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+45B5707B,45-54 years old,Female,No,No,8 University Degree,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+CFE7921D,45-54 years old,Male,No,No,8 University Degree,8,3,3,5,0,0,0,0,0,N,N,N,N,N
+81275B8C,45-54 years old,Male,No,No,8 University Degree,8,3,2,3,0.0625,-0.2,-0.3,0.5,-0.25,Y,N,N,Y,N
+6B205D6B,45-54 years old,Female,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+204061E7,45-54 years old,Female,Yes,No,4 Upper Secondary School,9,2,3,3,-0.625,-0.6,0.1,0.25,-0.25,N,N,Y,Y,N
+A126286E,45-54 years old,Male,Yes,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+BD72352F,45-54 years old,Female,No,No,8 University Degree,8,3,2,3,0,0,0,0,0,N,N,N,N,N
+DEAA3173,45-54 years old,Male,No,No,8 University Degree,10,3,3,3,0,0,0,0,0,N,N,N,N,N
+D32128D4,45-54 years old,Female,No,No,8 University Degree,9,5,5,5,-0.3125,-0.8,0.7,0.25,0.25,N,N,Y,Y,Y
+4B6A6247,45-54 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+2F98E115,45-54 years old,Male,No,No,9 Postgraduate Degree,9,3,5,5,0,0,0,0,0,N,N,N,N,N
+13E29C44,45-54 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+F3287D62,45-54 years old,Female,Yes,No,1 No formal education,7,3,3,3,0,0,0,0,0,N,N,N,N,N
+20000E26,45-54 years old,Female,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+509AB095,45-54 years old,Male,Yes,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+D0E22CB1,45-54 years old,Male,Yes,No,2 Primary School,8,5,5,5,0.1875,0.2,-0.2,-0.25,-0.5,Y,Y,N,N,N
+32917F29,45-54 years old,Female,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+BC5A2150,45-54 years old,Female,No,No,9 Postgraduate Degree,9,4,4,4,0,0,0,0,0,N,N,N,N,N
+5C9491FB,45-54 years old,Male,No,No,4 Upper Secondary School,9,4,5,5,-0.8125,0,-0.2,-0.75,-0.5,N,N,N,N,N
+D692C105,45-54 years old,Female,Yes,No,9 Postgraduate Degree,10,4,4,4,0,0,0,0,0,N,N,N,N,N
+C81C5623,45-54 years old,Male,No,No,8 University Degree,7,3,3,3,0.5625,0,-0.1,-1.5,-0.25,Y,N,N,N,N
+4E586060,45-54 years old,Female,No,No,4 Upper Secondary School,9,3,3,3,-0.125,-0.2,-0.1,-0.25,0,N,N,N,N,N
+7BD35BB8,45-54 years old,Female,No,No,9 Postgraduate Degree,8,3,3,3,0,0,0,0,0,N,N,N,N,N
+601918A8,45-54 years old,Male,No,No,9 Postgraduate Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+40EAA669,45-54 years old,Female,No,No,8 University Degree,7,4,3,3,0,0,0,0,0,N,N,N,N,N
+342B540C,55-64 years old,Male,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+AEF4E784,55-64 years old,Female,No,No,8 University Degree,8,3,3,3,0,0,0,0,0,N,N,N,N,N
+3771B00E,55-64 years old,Male,No,No,8 University Degree,8,5,5,5,0,0,0,0,0,N,N,N,N,N
+8587D22B,55-64 years old,Female,No,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+4F5090A4,55-64 years old,Male,Yes,No,8 University Degree,9,5,5,5,0,0,0,0,0,N,N,N,N,N
+2321FD2E,55-64 years old,Female,No,No,4 Upper Secondary School,9,5,5,5,0,0,-0.1,0.75,0,N,N,N,Y,N
+745AF0DE,55-64 years old,Female,No,No,8 University Degree,8,4,5,5,0,0,0,0,0,N,N,N,N,N
+BDC70C58,55-64 years old,Female,No,No,8 University Degree,7,4,4,4,0,0,0,0,0,N,N,N,N,N
+17614C68,55-64 years old,Female,No,No,9 Postgraduate Degree,8,3,3,3,0,0,0,0,0,N,N,N,N,N
+6AAB0BCA,55-64 years old,Male,Yes,No,8 University Degree,9,5,5,5,0,-0.2,-0.4,-0.5,1.25,N,N,N,N,Y
+C3E6AF63,55-64 years old,Male,No,No,7 Polytechnic,10,5,3,3,0,0,0,0,0,N,N,N,N,N
+CA613B37,55-64 years old,Female,No,No,4 Upper Secondary School,7,4,4,4,0,0,0,0,0,N,N,N,N,N
+96AD45D9,65-74 years old,Female,Yes,No,8 University Degree,10,2,3,3,0,0,0,0,0,N,N,N,N,N
+9591B4E2,65-74 years old,Female,No,No,4 Upper Secondary School,9,4,5,4,0,0,0,0,0,N,N,N,N,N
+C84CF9F2,65-74 years old,Male,Yes,No,8 University Degree,10,4,4,4,0.0625,0.6,0,-0.75,0.25,Y,Y,N,N,Y
+3E7CAA55,65-74 years old,Female,Yes,No,8 University Degree,10,4,4,4,0.1875,0,-0.3,0,0,Y,N,N,N,N
+FFDBF9E9,65-74 years old,Male,No,No,8 University Degree,7,5,5,5,0,0,0,0,0,N,N,N,N,N
+4CC92729,65-74 years old,Female,No,No,8 University Degree,8,4,4,4,0,0,0,0,0,N,N,N,N,N
+B9DA360E,65-74 years old,Male,No,No,8 University Degree,10,5,5,5,0,0,0,0,0,N,N,N,N,N
+BEF9384D,12-17 years old,Female,No,No,3 Lower Secondary School,7,5,5,5,2.0625,0,0.5,0.5,1,Y,N,Y,Y,Y
+8FBCB0E0,12-17 years old,Female,No,No,3 Lower Secondary School,9,5,5,5,1.8125,0.6,2,1,1.75,Y,Y,Y,Y,Y
+A283C0D1,12-17 years old,Female,No,No,3 Lower Secondary School,8,5,5,5,1.375,0.4,2.6,-0.5,0.75,Y,Y,Y,N,Y
+274C205C,12-17 years old,Male,No,No,3 Lower Secondary School,7,5,5,5,0.6875,0,1.2,0,1,Y,N,Y,N,Y
+D528864A,12-17 years old,Female,No,No,3 Lower Secondary School,8,4,4,4,1.25,-0.4,1.3,1,-0.5,Y,N,Y,Y,N
+86DC434C,18-24 years old,Female,No,No,8 University Degree,10,5,5,5,1.625,-0.8,1.8,0,1.5,Y,N,Y,N,Y
+1E888E3A,18-24 years old,Male,No,No,4 Upper Secondary School,7,3,4,3,0.4375,0.4,0.6,-0.25,2,Y,Y,Y,N,Y
+790E2B61,18-24 years old,Male,No,No,4 Upper Secondary School,5,5,5,5,-1.25,-0.6,-1.8,-1.25,-0.25,N,N,N,N,N
+E2374883,25-34 years old,Male,Yes,No,7 Polytechnic,7,5,5,5,-0.375,-0.6,0.3,0,-0.25,N,N,Y,N,N
+F31290FF,25-34 years old,Male,No,No,8 University Degree,6,3,3,4,-0.75,-0.6,0.2,0.5,-1.25,N,N,Y,Y,N
+2D165527,25-34 years old,Male,Yes,No,7 Polytechnic,5,5,5,5,-0.125,-1.8,-0.3,-1.25,-0.5,N,N,N,N,N
+0E39B8FF,25-34 years old,Female,Yes,No,8 University Degree,9,5,5,5,-0.4375,-1,-0.4,-0.5,-1.25,N,N,N,N,N
+BEC0B163,25-34 years old,Male,Yes,No,8 University Degree,8,2,2,3,-0.25,-0.2,-0.2,-1,1.5,N,N,N,N,Y
+7B64BC66,25-34 years old,Female,Yes,No,4 Upper Secondary School,10,5,5,5,-0.25,0.6,0.4,-0.25,1,N,Y,Y,N,Y
+399ACB51,25-34 years old,Female,Yes,No,8 University Degree,7,5,5,5,0.1875,-0.2,-0.3,-0.5,0.5,Y,N,N,N,Y
+79B9C2D1,25-34 years old,Male,No,No,8 University Degree,7,5,5,5,0.125,1,-0.3,-1,2.5,Y,Y,N,N,Y
+B6E975D7,25-34 years old,Male,No,No,9 Postgraduate Degree,7,5,5,5,-0.0625,-0.8,-0.4,-0.25,1.25,N,N,N,N,Y
+F505FD4D,45-54 years old,Female,Yes,No,8 University Degree,9,5,5,5,-0.875,0,0.1,0,0.25,N,N,Y,N,Y
+B8410C4A,45-54 years old,Female,No,No,4 Upper Secondary School,10,5,5,5,-0.5,-0.2,0,-0.75,0.25,N,N,N,N,Y
